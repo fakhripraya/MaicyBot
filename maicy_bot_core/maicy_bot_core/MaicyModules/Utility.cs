@@ -34,9 +34,9 @@ namespace maicy_bot_core.MaicyModule
                 "`Leave` [Leave channel]\n" +
                 "`Restart` [Restart the music player]\n" +
                 "\n" +
-                "`Play` [Play song/playlist from Youtube]\n" +
+                "`Play` [Play song/playlist from YouTube]\n" +
                 "`Soundcloud` [Play song from Soundcloud]\n" +
-                "`spotify` [Play playlist from spotify]\n" +
+                "`Spotify` [Play song/playlist/album from Spotify]\n" +
                 "\n" +
                 "`Resume` [Resume current playback]\n" +
                 "`Pause` [Pause current playback]\n" +
@@ -46,8 +46,8 @@ namespace maicy_bot_core.MaicyModule
                 "`Remove` [Remove the selected track]\n" +
                 "\n" +
                 "`Volume` [Set playback Volumes]\n" +
-                "`Loop` [Loop tracks]\n" +
-                "`Autoplay` [Toggle auto play]\n" +
+                "`Loop` [Loop the whole tracks]\n" +
+                "`Autoplay` [Toggle autoplay]\n" +
                 "\n" +
                 "`Now` [Get current track info]\n" +
                 "`Lyrics` [Fetch current track lyrics]\n" +
@@ -58,7 +58,7 @@ namespace maicy_bot_core.MaicyModule
                 "\n\n" +
                 "UTILITY\n\n" +
                 "`Help` [summon this command]")
-                .WithFooter("Contact : PakPres#8360 for any feedback")
+                .WithFooter("This bot is still a WIP , Please contact : PakPres#8360 for any feedback")
                 .WithCurrentTimestamp()
                 .Build();
 
