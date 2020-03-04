@@ -1,0 +1,245 @@
+2020-02-09 09:48:37.364  INFO 11188 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        db5c3ed2418a74e2b387805488599b6b2d396e3a-SNAPSHOT
+	Build:          756
+	Build time:     04.03.2019 10:47:16 CET
+	Branch          master
+	Commit:         db5c3ed
+	Commit time:    04.03.2019 10:45:32 CET
+	JVM:            1.8.0_181
+	Lavaplayer      1.3.11
+
+2020-02-09 09:48:37.595  INFO 11188 --- [main] lavalink.server.Launcher                 : Starting Launcher on Windows-PC with PID 11188 (C:\Users\Windows\source\repos\maicy_bot_core\maicy_bot_core\Lavalink.jar started by Windows in C:\Users\Windows\source\repos\maicy_bot_core\maicy_bot_core)
+2020-02-09 09:48:37.596  INFO 11188 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2020-02-09 09:48:37.647  INFO 11188 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4c203ea1: startup date [Sun Feb 09 09:48:37 ICT 2020]; root of context hierarchy
+2020-02-09 09:48:38.097  WARN 11188 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-02-09 09:48:39.134  INFO 11188 --- [main] org.xnio                                 : XNIO version 3.3.8.Final
+2020-02-09 09:48:39.149  INFO 11188 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.3.8.Final
+2020-02-09 09:48:39.213  WARN 11188 --- [main] io.undertow.websockets.jsr               : UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+2020-02-09 09:48:39.213  WARN 11188 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2020-02-09 09:48:39.236  INFO 11188 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2020-02-09 09:48:39.236  INFO 11188 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1589 ms
+2020-02-09 09:48:39.283  INFO 11188 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2020-02-09 09:48:39.289  INFO 11188 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-09 09:48:39.289  INFO 11188 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-09 09:48:39.289  INFO 11188 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-09 09:48:39.290  INFO 11188 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-09 09:48:39.290  INFO 11188 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'responseHeaderFilter' to: [/*]
+2020-02-09 09:48:39.634  WARN 11188 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2020-02-09 09:48:39.656  INFO 11188 --- [main] l.s.c.AudioSendFactoryConfiguration      : OS: Windows 7, Arch: amd64
+2020-02-09 09:48:39.657  INFO 11188 --- [main] l.s.c.AudioSendFactoryConfiguration      : JDA-NAS supported system detected. Enabled native audio sending.
+2020-02-09 09:48:39.657  INFO 11188 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting buffer to 400ms
+2020-02-09 09:48:39.657  INFO 11188 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting playlist load limit to 6
+2020-02-09 09:48:40.343  INFO 11188 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-02-09 09:48:40.405  INFO 11188 --- [main] o.s.w.s.s.s.WebSocketHandlerMapping      : Root mapping to handler of type [class org.springframework.web.socket.server.support.WebSocketHttpRequestHandler]
+2020-02-09 09:48:40.548  INFO 11188 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-09 09:48:40.757  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4c203ea1: startup date [Sun Feb 09 09:48:37 ICT 2020]; root of context hierarchy
+2020-02-09 09:48:40.856  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/debug/nashorn],methods=[POST]}" onto public java.lang.String lavalink.server.util.DebugRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,java.lang.String)
+2020-02-09 09:48:40.860  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/loadtracks],methods=[GET],produces=[application/json]}" onto public java.util.concurrent.CompletionStage<org.springframework.http.ResponseEntity<java.lang.String>> lavalink.server.player.AudioLoaderRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,java.lang.String)
+2020-02-09 09:48:40.860  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetrack],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.getDecodeTrack(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2020-02-09 09:48:40.861  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetracks],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.postDecodeTracks(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2020-02-09 09:48:40.862  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-02-09 09:48:40.863  INFO 11188 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-02-09 09:48:40.883  INFO 11188 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-09 09:48:40.884  INFO 11188 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-09 09:48:41.080  INFO 11188 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2020-02-09 09:48:41.086  INFO 11188 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2020-02-09 09:48:41.139  INFO 11188 --- [main] o.s.b.w.e.u.UndertowServletWebServer     : Undertow started on port(s) 2333 (http) with context path ''
+2020-02-09 09:48:41.142  INFO 11188 --- [main] lavalink.server.Launcher                 : Started Launcher in 4.17 seconds (JVM running for 5.253)
+2020-02-09 09:49:24.811  INFO 11188 --- [XNIO-2 task-1] io.undertow.servlet                      : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-02-09 09:49:24.812  INFO 11188 --- [XNIO-2 task-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2020-02-09 09:49:24.843  INFO 11188 --- [XNIO-2 task-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 31 ms
+2020-02-09 09:49:24.900  INFO 11188 --- [XNIO-2 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:50107
+2020-02-09 09:49:25.016  INFO 11188 --- [XNIO-2 task-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-02-09 09:49:25.242  INFO 11188 --- [XNIO-2 task-1] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:50107
+2020-02-09 09:49:35.073  INFO 11188 --- [XNIO-2 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"c88adf25e5d2dd6d252d98dff00e32f5","event":{"token":"daf714bc541f9491","guildid":"673512696288903199","endpoint":"singapore886.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-02-09 09:56:03.839  INFO 11188 --- [parallel-4] s.n.magma.connections.AudioWebSocket     : Websocket to wss://singapore886.discord.media/?v=4 closed with code 4014 and reason Disconnected.
+2020-02-09 09:56:03.847  INFO 11188 --- [parallel-4] s.n.magma.connections.AudioWebSocket     : Resuming
+2020-02-09 09:56:07.363  INFO 11188 --- [XNIO-2 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:50107 -- CloseStatus[code=1006, reason=]
+2020-02-09 09:56:07.363  INFO 11188 --- [XNIO-2 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-02-09 09:56:07.364  INFO 11188 --- [XNIO-2 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-02-09 09:58:33.556  INFO 11188 --- [XNIO-2 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:50160
+2020-02-09 09:58:33.559  INFO 11188 --- [XNIO-2 task-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-02-09 09:58:33.564  INFO 11188 --- [XNIO-2 task-2] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:50160
+2020-02-09 09:58:56.561  INFO 11188 --- [XNIO-2 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"da0e4b8a9b18b9ae3afde988ce20e62c","event":{"token":"a4d4c2e30880359d","guildid":"673512696288903199","endpoint":"singapore886.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-02-09 09:59:44.451  INFO 11188 --- [XNIO-2 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:50160 -- CloseStatus[code=1006, reason=]
+2020-02-09 09:59:44.451  INFO 11188 --- [XNIO-2 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-02-09 09:59:44.451  INFO 11188 --- [XNIO-2 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-02-09 11:03:36.639  INFO 11188 --- [Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@4c203ea1: startup date [Sun Feb 09 09:48:37 ICT 2020]; root of context hierarchy
+2020-02-09 11:03:36.644  INFO 11188 --- [Thread-2] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2020-02-09 11:03:36.645  INFO 11188 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2020-02-09 11:03:36.646  INFO 11188 --- [Thread-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-02-09 11:03:36.647  INFO 11188 --- [Thread-2] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-02-09 11:03:44.679  INFO 1940 --- [main] lavalink.server.Launcher                 : 
+
+[32m       .  [31m _                  _ _       _    [32m__ _ _
+[32m      /\\ [31m| | __ ___   ____ _| (_)_ __ | | __[32m\ \ \ \
+[32m     ( ( )[31m| |/ _` \ \ / / _` | | | '_ \| |/ /[32m \ \ \ \
+[32m      \\/ [31m| | (_| |\ V / (_| | | | | | |   < [32m  ) ) ) )
+[32m       '  [31m|_|\__,_| \_/ \__,_|_|_|_| |_|_|\_\[32m / / / /
+[0m    =========================================[32m/_/_/_/[0m
+
+	Version:        db5c3ed2418a74e2b387805488599b6b2d396e3a-SNAPSHOT
+	Build:          756
+	Build time:     04.03.2019 10:47:16 CET
+	Branch          master
+	Commit:         db5c3ed
+	Commit time:    04.03.2019 10:45:32 CET
+	JVM:            1.8.0_181
+	Lavaplayer      1.3.11
+
+2020-02-09 11:03:44.799  INFO 1940 --- [main] lavalink.server.Launcher                 : Starting Launcher on Windows-PC with PID 1940 (C:\Users\Windows\source\repos\maicy_bot_core\maicy_bot_core\Lavalink.jar started by Windows in C:\Users\Windows\source\repos\maicy_bot_core\maicy_bot_core)
+2020-02-09 11:03:44.800  INFO 1940 --- [main] lavalink.server.Launcher                 : No active profile set, falling back to default profiles: default
+2020-02-09 11:03:44.842  INFO 1940 --- [main] ConfigServletWebServerApplicationContext : Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@e580929: startup date [Sun Feb 09 11:03:44 ICT 2020]; root of context hierarchy
+2020-02-09 11:03:44.888  WARN 1940 --- [background-preinit] o.s.h.c.j.Jackson2ObjectMapperBuilder    : For Jackson Kotlin classes support please add "com.fasterxml.jackson.module:jackson-module-kotlin" to the classpath
+2020-02-09 11:03:45.847  INFO 1940 --- [main] org.xnio                                 : XNIO version 3.3.8.Final
+2020-02-09 11:03:45.860  INFO 1940 --- [main] org.xnio.nio                             : XNIO NIO Implementation Version 3.3.8.Final
+2020-02-09 11:03:45.917  WARN 1940 --- [main] io.undertow.websockets.jsr               : UT026009: XNIO worker was not set on WebSocketDeploymentInfo, the default worker will be used
+2020-02-09 11:03:45.918  WARN 1940 --- [main] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2020-02-09 11:03:45.935  INFO 1940 --- [main] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2020-02-09 11:03:45.935  INFO 1940 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1093 ms
+2020-02-09 11:03:45.983  INFO 1940 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2020-02-09 11:03:45.987  INFO 1940 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-09 11:03:45.988  INFO 1940 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-09 11:03:45.989  INFO 1940 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-09 11:03:45.989  INFO 1940 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-09 11:03:45.989  INFO 1940 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'responseHeaderFilter' to: [/*]
+2020-02-09 11:03:46.334  WARN 1940 --- [main] l.server.config.SentryConfiguration      : Turning off sentry
+2020-02-09 11:03:46.341  INFO 1940 --- [main] l.s.c.AudioSendFactoryConfiguration      : OS: Windows 7, Arch: amd64
+2020-02-09 11:03:46.341  INFO 1940 --- [main] l.s.c.AudioSendFactoryConfiguration      : JDA-NAS supported system detected. Enabled native audio sending.
+2020-02-09 11:03:46.341  INFO 1940 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting buffer to 400ms
+2020-02-09 11:03:46.341  INFO 1940 --- [main] l.s.c.AudioSendFactoryConfiguration      : Setting playlist load limit to 6
+2020-02-09 11:03:46.833  INFO 1940 --- [main] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-02-09 11:03:46.891  INFO 1940 --- [main] o.s.w.s.s.s.WebSocketHandlerMapping      : Root mapping to handler of type [class org.springframework.web.socket.server.support.WebSocketHttpRequestHandler]
+2020-02-09 11:03:47.029  INFO 1940 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-09 11:03:47.206  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerAdapter : Looking for @ControllerAdvice: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@e580929: startup date [Sun Feb 09 11:03:44 ICT 2020]; root of context hierarchy
+2020-02-09 11:03:47.307  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/debug/nashorn],methods=[POST]}" onto public java.lang.String lavalink.server.util.DebugRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse,java.lang.String,java.lang.String)
+2020-02-09 11:03:47.310  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/loadtracks],methods=[GET],produces=[application/json]}" onto public java.util.concurrent.CompletionStage<org.springframework.http.ResponseEntity<java.lang.String>> lavalink.server.player.AudioLoaderRestHandler.getLoadTracks(javax.servlet.http.HttpServletRequest,java.lang.String)
+2020-02-09 11:03:47.311  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetrack],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.getDecodeTrack(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2020-02-09 11:03:47.311  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/decodetracks],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<java.lang.String> lavalink.server.player.AudioLoaderRestHandler.postDecodeTracks(javax.servlet.http.HttpServletRequest,java.lang.String) throws java.io.IOException
+2020-02-09 11:03:47.313  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-02-09 11:03:47.313  INFO 1940 --- [main] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.servlet.error.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-02-09 11:03:47.332  INFO 1940 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-09 11:03:47.332  INFO 1940 --- [main] o.s.w.s.handler.SimpleUrlHandlerMapping  : Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-09 11:03:47.512  INFO 1940 --- [main] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+2020-02-09 11:03:47.518  INFO 1940 --- [main] o.s.c.support.DefaultLifecycleProcessor  : Starting beans in phase 2147483647
+2020-02-09 11:03:47.578  INFO 1940 --- [main] o.s.b.w.e.u.UndertowServletWebServer     : Undertow started on port(s) 2333 (http) with context path ''
+2020-02-09 11:03:47.580  INFO 1940 --- [main] lavalink.server.Launcher                 : Started Launcher in 3.231 seconds (JVM running for 3.728)
+2020-02-09 11:04:02.118  INFO 1940 --- [XNIO-2 task-1] io.undertow.servlet                      : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2020-02-09 11:04:02.118  INFO 1940 --- [XNIO-2 task-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization started
+2020-02-09 11:04:02.130  INFO 1940 --- [XNIO-2 task-1] o.s.web.servlet.DispatcherServlet        : FrameworkServlet 'dispatcherServlet': initialization completed in 11 ms
+2020-02-09 11:04:02.152  INFO 1940 --- [XNIO-2 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:50501
+2020-02-09 11:04:02.206  INFO 1940 --- [XNIO-2 task-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-02-09 11:04:02.270  INFO 1940 --- [XNIO-2 task-1] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:50501
+2020-02-09 11:04:09.474  INFO 1940 --- [XNIO-2 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"0d3631faef1b075c2414b4fbc94cb7ae","event":{"token":"959e7374c25315cd","guildid":"673512696288903199","endpoint":"singapore886.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-02-09 11:04:15.891  INFO 1940 --- [XNIO-2 task-2] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-02-09 11:04:16.989  INFO 1940 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: counting stars
+2020-02-09 11:04:17.047  INFO 1940 --- [XNIO-2 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAmAIAM09uZVJlcHVibGljIC0gQ291bnRpbmcgU3RhcnMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQALT25lUmVwdWJsaWMAAAAAAARVYAALaFRfbnZXcmVJaGcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1oVF9udldyZUloZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-02-09 11:04:17.949  WARN 1940 --- [lava-daemon-pool-playback-5-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of hT_nvWreIhg
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unable to play this YouTube track.
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.loadTrackFormats(YoutubeAudioTrack.java:138) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:98) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:62) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:90) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) [lavaplayer-1.3.11.jar!/:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_181]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_181]
+Caused by: java.lang.IllegalStateException: No adaptive formats, no dash, no stream map.
+	... 8 common frames omitted
+
+2020-02-09 11:04:17.967 ERROR 1940 --- [japp-1] s.npstr.magma.processing.PacketProvider  : Failed to get next packet
+
+java.lang.UnsupportedOperationException: null
+	at com.sedmelluq.discord.lavaplayer.track.playback.TerminatorAudioFrame.getVolume(TerminatorAudioFrame.java:18) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.filterFrame(AllocatingAudioFrameBuffer.java:194) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.provide(AllocatingAudioFrameBuffer.java:61) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.provide(LocalAudioTrackExecutor.java:398) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.BaseAudioTrack.provide(BaseAudioTrack.java:92) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer.provide(DefaultAudioPlayer.java:189) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AudioFrameProviderTools.delegateToTimedProvide(AudioFrameProviderTools.java:18) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer.provide(DefaultAudioPlayer.java:175) ~[lavaplayer-1.3.11.jar!/:na]
+	at lavalink.server.player.Player.canProvide(Player.java:146) ~[classes!/:na]
+	at space.npstr.magma.processing.PacketProvider.buildNextPacket(PacketProvider.java:130) [magma-0.9.0.jar!/:na]
+	at space.npstr.magma.processing.PacketProvider.getNextPacketRaw(PacketProvider.java:110) [magma-0.9.0.jar!/:na]
+	at space.npstr.magma.processing.PacketProvider.getNextPacket(PacketProvider.java:102) [magma-0.9.0.jar!/:na]
+	at com.github.shredder121.asyncaudio.jda.AsyncPacketProvider.lambda$null$0(AsyncPacketProvider.java:56) [jda-async-packetprovider-1.3.jar!/:na]
+	at com.github.shredder121.asyncaudio.common.ProvideForkJoinTask.exec(ProvideForkJoinTask.java:42) ~[jda-async-packetprovider-1.3.jar!/:na]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[na:1.8.0_181]
+
+2020-02-09 11:04:50.170  INFO 1940 --- [XNIO-2 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-02-09 11:04:50.924  INFO 1940 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: counting stars
+2020-02-09 11:04:50.931  INFO 1940 --- [XNIO-2 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAmAIAM09uZVJlcHVibGljIC0gQ291bnRpbmcgU3RhcnMgKE9mZmljaWFsIE11c2ljIFZpZGVvKQALT25lUmVwdWJsaWMAAAAAAARVYAALaFRfbnZXcmVJaGcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1oVF9udldyZUloZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-02-09 11:04:51.733  WARN 1940 --- [lava-daemon-pool-playback-5-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of hT_nvWreIhg
+
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Unable to play this YouTube track.
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.loadTrackFormats(YoutubeAudioTrack.java:138) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.loadBestFormatWithUrl(YoutubeAudioTrack.java:98) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:62) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:90) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) [lavaplayer-1.3.11.jar!/:na]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source) ~[na:1.8.0_181]
+	at java.lang.Thread.run(Unknown Source) ~[na:1.8.0_181]
+Caused by: java.lang.IllegalStateException: No adaptive formats, no dash, no stream map.
+	... 8 common frames omitted
+
+2020-02-09 11:04:51.750 ERROR 1940 --- [japp-1] s.npstr.magma.processing.PacketProvider  : Failed to get next packet
+
+java.lang.UnsupportedOperationException: null
+	at com.sedmelluq.discord.lavaplayer.track.playback.TerminatorAudioFrame.getVolume(TerminatorAudioFrame.java:18) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.filterFrame(AllocatingAudioFrameBuffer.java:194) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.provide(AllocatingAudioFrameBuffer.java:61) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.provide(LocalAudioTrackExecutor.java:398) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.BaseAudioTrack.provide(BaseAudioTrack.java:92) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer.provide(DefaultAudioPlayer.java:189) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.AudioFrameProviderTools.delegateToTimedProvide(AudioFrameProviderTools.java:18) ~[lavaplayer-1.3.11.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayer.provide(DefaultAudioPlayer.java:175) ~[lavaplayer-1.3.11.jar!/:na]
+	at lavalink.server.player.Player.canProvide(Player.java:146) ~[classes!/:na]
+	at space.npstr.magma.processing.PacketProvider.buildNextPacket(PacketProvider.java:130) [magma-0.9.0.jar!/:na]
+	at space.npstr.magma.processing.PacketProvider.getNextPacketRaw(PacketProvider.java:110) [magma-0.9.0.jar!/:na]
+	at space.npstr.magma.processing.PacketProvider.getNextPacket(PacketProvider.java:102) [magma-0.9.0.jar!/:na]
+	at com.github.shredder121.asyncaudio.jda.AsyncPacketProvider.lambda$null$0(AsyncPacketProvider.java:56) [jda-async-packetprovider-1.3.jar!/:na]
+	at com.github.shredder121.asyncaudio.common.ProvideForkJoinTask.exec(ProvideForkJoinTask.java:42) ~[jda-async-packetprovider-1.3.jar!/:na]
+	at java.util.concurrent.ForkJoinTask.doExec(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ForkJoinPool.runWorker(Unknown Source) ~[na:1.8.0_181]
+	at java.util.concurrent.ForkJoinWorkerThread.run(Unknown Source) ~[na:1.8.0_181]
+
+2020-02-09 11:04:58.343  INFO 1940 --- [Thread-2] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@e580929: startup date [Sun Feb 09 11:03:44 ICT 2020]; root of context hierarchy
+2020-02-09 11:04:58.348  INFO 1940 --- [Thread-2] o.s.c.support.DefaultLifecycleProcessor  : Stopping beans in phase 2147483647
+2020-02-09 11:04:58.349  INFO 1940 --- [Thread-2] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2020-02-09 11:04:58.350  INFO 1940 --- [Thread-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-02-09 11:04:58.352  INFO 1940 --- [Thread-2] io.undertow.servlet                      : Destroying Spring FrameworkServlet 'dispatcherServlet'
+2020-02-09 11:04:58.357 ERROR 1940 --- [XNIO-2 I/O-1] org.xnio.listener                        : XNIO001007: A channel event listener threw an exception
+
+java.util.concurrent.RejectedExecutionException: XNIO007007: Thread is terminating
+	at org.xnio.nio.WorkerThread.execute(WorkerThread.java:590) [xnio-nio-3.3.8.Final.jar!/:3.3.8.Final]
+	at io.undertow.websockets.jsr.UndertowSession$3.handleEvent(UndertowSession.java:396) ~[undertow-websockets-jsr-1.4.25.Final.jar!/:1.4.25.Final]
+	at io.undertow.websockets.jsr.UndertowSession$3.handleEvent(UndertowSession.java:388) ~[undertow-websockets-jsr-1.4.25.Final.jar!/:1.4.25.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) [xnio-api-3.3.8.Final.jar!/:3.3.8.Final]
+	at io.undertow.server.protocol.framed.AbstractFramedChannel$FrameCloseListener.handleEvent(AbstractFramedChannel.java:1061) [undertow-core-2.0.14.Final.jar!/:2.0.14.Final]
+	at io.undertow.server.protocol.framed.AbstractFramedChannel$FrameCloseListener.handleEvent(AbstractFramedChannel.java:975) [undertow-core-2.0.14.Final.jar!/:2.0.14.Final]
+	at org.xnio.ChannelListeners.invokeChannelListener(ChannelListeners.java:92) [xnio-api-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.conduits.WriteReadyHandler$ChannelListenerHandler.terminated(WriteReadyHandler.java:70) [xnio-api-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.nio.NioSocketConduit.writeTerminated(NioSocketConduit.java:234) [xnio-nio-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.nio.NioSocketConduit.terminateWrites(NioSocketConduit.java:223) [xnio-nio-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.nio.NioSocketConduit.truncateWrites(NioSocketConduit.java:228) [xnio-nio-3.3.8.Final.jar!/:3.3.8.Final]
+	at io.undertow.conduits.IdleTimeoutConduit.truncateWrites(IdleTimeoutConduit.java:387) [undertow-core-2.0.14.Final.jar!/:2.0.14.Final]
+	at org.xnio.conduits.ConduitStreamSinkChannel.close(ConduitStreamSinkChannel.java:186) [xnio-api-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.IoUtils.safeClose(IoUtils.java:134) [xnio-api-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.conduits.WriteReadyHandler$ChannelListenerHandler.forceTermination(WriteReadyHandler.java:57) [xnio-api-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.nio.NioSocketConduit.forceTermination(NioSocketConduit.java:107) [xnio-nio-3.3.8.Final.jar!/:3.3.8.Final]
+	at org.xnio.nio.WorkerThread.run(WorkerThread.java:494) [xnio-nio-3.3.8.Final.jar!/:3.3.8.Final]
+
