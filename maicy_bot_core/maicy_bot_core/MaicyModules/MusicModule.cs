@@ -298,10 +298,18 @@ namespace maicy_bot_core.MaicyModule
         }
 
         [Command("Lyrics"), Alias("ly", "Lyric")]
-        public async Task Lyric()
+        public async Task Lyric([Remainder]string Search)
         {
+            if (Search == null)
+            {
+                await ReplyAsync(default, default, new EmbedBuilder()
+                    .WithColor(Color.Green)
+                    .WithDescription("Put the song name for the lyrics you want")
+                    .WithCurrentTimestamp()
+                    .Build());
+            }
 
-            string reply_msg = await maicy_music_service.lyric_async();
+            string reply_msg = await maicy_music_service.lyric_async(Search, Context.Channel as ITextChannel);
 
             await ReplyAsync(default, default, new EmbedBuilder()
                     .WithColor(Color.Green)

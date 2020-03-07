@@ -42,3 +42,14 @@ D:\MaicyBot\EH\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_c
 D:\MaicyBot\EH\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.AssemblyInfo.cs
 D:\MaicyBot\EH\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.dll
 D:\MaicyBot\EH\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.pdb
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\bin\Debug\netcoreapp2.1\maicy_bot_core.deps.json
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\bin\Debug\netcoreapp2.1\maicy_bot_core.runtimeconfig.json
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\bin\Debug\netcoreapp2.1\maicy_bot_core.runtimeconfig.dev.json
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\bin\Debug\netcoreapp2.1\maicy_bot_core.dll
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\bin\Debug\netcoreapp2.1\maicy_bot_core.pdb
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.csprojAssemblyReference.cache
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.csproj.CoreCompileInputs.cache
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.AssemblyInfoInputs.cache
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.AssemblyInfo.cs
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.dll
+D:\GIT_REPO\MaicyBot\maicy_bot_core\maicy_bot_core\obj\Debug\netcoreapp2.1\maicy_bot_core.pdb

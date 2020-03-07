@@ -90,6 +90,18 @@
           "lib/netstandard2.0/Unosquare.Labs.EmbedIO.dll": {}
         }
       },
+      "KSoft.Net/2.3.2": {
+        "type": "package",
+        "dependencies": {
+          "RestSharp": "106.6.10"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/KSoft.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/KSoft.Net.dll": {}
+        }
+      },
       "LtGt/1.0.2": {
         "type": "package",
         "dependencies": {
@@ -336,6 +348,15 @@
         },
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.6.10": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
         }
       },
       "SpotifyAPI.Web/4.2.2": {
@@ -897,6 +918,18 @@
           "lib/netstandard2.0/Unosquare.Labs.EmbedIO.dll": {}
         }
       },
+      "KSoft.Net/2.3.2": {
+        "type": "package",
+        "dependencies": {
+          "RestSharp": "106.6.10"
+        },
+        "compile": {
+          "lib/netcoreapp2.0/KSoft.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/KSoft.Net.dll": {}
+        }
+      },
       "LtGt/1.0.2": {
         "type": "package",
         "dependencies": {
@@ -1149,6 +1182,15 @@
         },
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "RestSharp/106.6.10": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/RestSharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {}
         }
       },
       "runtime.win-x64.Microsoft.NETCore.App/2.1.5": {
@@ -1952,6 +1994,18 @@
         "lib/netstandard2.0/Unosquare.Labs.EmbedIO.xml"
       ]
     },
+    "KSoft.Net/2.3.2": {
+      "sha512": "zGUNEJxtdmMkQInS7aNM57YWOnk9MAc5qQhj2u8iCHDaoa1nfhBw70Ft0TjrjGHWlCz0wyZTXqJxpH0UkNgYSQ==",
+      "type": "package",
+      "path": "ksoft.net/2.3.2",
+      "files": [
+        ".signature.p7s",
+        "ksoft.net.2.3.2.nupkg.sha512",
+        "ksoft.net.nuspec",
+        "lib/netcoreapp2.0/KSoft.Net.dll",
+        "lib/netcoreapp2.0/KSoft.Net.xml"
+      ]
+    },
     "LtGt/1.0.2": {
       "sha512": "E91XvD38YzUGeRqOIbLIXFXzmalk2mpZi0ZmiGs+bpYIUeUlPKUTdRkYgdeGspq+V8pdWOv01iIEwb3BYZAo+g==",
       "type": "package",
@@ -2483,6 +2537,20 @@
         "newtonsoft.json.12.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
+      ]
+    },
+    "RestSharp/106.6.10": {
+      "sha512": "MMLyolW6zkWNmEvJrrpTRmNaDRm6/KJBceb15U9uD6ZBEdySXNB3WCP/cWb8YmLUQoRhlIz9hbsnqfI6v3xKgQ==",
+      "type": "package",
+      "path": "restsharp/106.6.10",
+      "files": [
+        ".signature.p7s",
+        "lib/net452/RestSharp.dll",
+        "lib/net452/RestSharp.xml",
+        "lib/netstandard2.0/RestSharp.dll",
+        "lib/netstandard2.0/RestSharp.xml",
+        "restsharp.106.6.10.nupkg.sha512",
+        "restsharp.nuspec"
       ]
     },
     "runtime.win-x64.Microsoft.NETCore.App/2.1.5": {
@@ -4489,6 +4557,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Discord.Net >= 2.1.1",
+      "KSoft.Net >= 2.3.2",
       "Microsoft.NETCore.App >= 2.1.5",
       "Newtonsoft.Json >= 12.0.3",
       "SpotifyAPI.Web.Auth >= 4.2.2",
@@ -4540,6 +4609,10 @@
           "Discord.Net": {
             "target": "Package",
             "version": "[2.1.1, )"
+          },
+          "KSoft.Net": {
+            "target": "Package",
+            "version": "[2.3.2, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",

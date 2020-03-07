@@ -56,7 +56,7 @@ namespace maicy_bot_core
             //    return;
             //}
 
-            if (!user_message.HasStringPrefix("my!", ref arg_pos)) // maicy
+            if (!user_message.HasStringPrefix("o", ref arg_pos)) // maicy
             {
                 return;
             }

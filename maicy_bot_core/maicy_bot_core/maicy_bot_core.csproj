@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Discord.Net" Version="2.1.1" />
+    <PackageReference Include="KSoft.Net" Version="2.3.2" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
     <PackageReference Include="SpotifyAPI.Web.Auth" Version="4.2.2" />
     <PackageReference Include="Victoria" Version="4.0.8" />

@@ -50,7 +50,7 @@ namespace maicy_bot_core.MaicyModule
                 "`Autoplay` [Toggle autoplay]\n" +
                 "\n" +
                 "`Now` [Get current track info]\n" +
-                "`Lyrics` [Fetch current track lyrics]\n" +
+                "`Lyrics` [Search Lyrics]\n" +
                 "\n" +
                 "`Queue` [Get tracks queue info]\n" +
                 "`Page` [Get selected queue page info]\n" +

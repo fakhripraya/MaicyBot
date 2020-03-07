@@ -12,6 +12,7 @@ using YoutubeExplode;
 using SpotifyAPI.Web;
 using SpotifyAPI.Web.Auth;
 using SpotifyAPI.Web.Models;
+using KSoft.Net;
 
 namespace maicy_bot_core.MaicyServices
 {
@@ -647,13 +648,13 @@ namespace maicy_bot_core.MaicyServices
                             }
                             else
                             {
-                                await lava_player.PlayAsync(results.Tracks.FirstOrDefault());
                                 Gvar.loop_track = results.Tracks.FirstOrDefault();
                             }
                             load_count++;
                         }
 
                         await temp_msg.DeleteAsync();
+                        await lava_player.PlayAsync(Gvar.loop_track);
                         await now_async(default);
                         await lava_player.TextChannel.SendMessageAsync(default, default, new EmbedBuilder()
                                             .WithColor(Color.Green)
@@ -732,13 +733,13 @@ namespace maicy_bot_core.MaicyServices
                             }
                             else
                             {
-                                await lava_player.PlayAsync(results.Tracks.FirstOrDefault());
                                 Gvar.loop_track = results.Tracks.FirstOrDefault();
                             }
                             load_count++;
                         }
 
                         await temp_msg.DeleteAsync();
+                        await lava_player.PlayAsync(Gvar.loop_track);
                         await now_async(default);
                         await lava_player.TextChannel.SendMessageAsync(default, default, new EmbedBuilder()
                                             .WithColor(Color.Green)
@@ -954,21 +955,14 @@ namespace maicy_bot_core.MaicyServices
         }
 
         //lyric
-        public async Task<string> lyric_async()
+        public async Task<string> lyric_async(string Search, ITextChannel text_channel)
         {
             try
             {
-                if (lava_player == null)
-                {
-                    return "There are no track playing at this time.";
-                }
+                KSoftApi lyric_api = new KSoftApi("cc5db17c63f7857440826f98fce2ba22f8d9902c");
 
-                if (!lava_player.IsPlaying)
-                {
-                    return "There are no track playing at this time.";
-                }
-
-                var lyric = await lava_player.CurrentTrack.FetchLyricsAsync();
+                var lyric_search = lyric_api.SearchLyrics(Search, default, default);
+                string lyric = lyric_search.Data.Select(x => x.Lyrics).FirstOrDefault();
 
                 if (lyric == "" || lyric == null)
                 {
@@ -977,8 +971,8 @@ namespace maicy_bot_core.MaicyServices
 
                 var embed = new EmbedBuilder
                 {
-                    Title = $"By : {lava_player.CurrentTrack.Author}\n" +
-                            $"Title : {lava_player.CurrentTrack.Title}"
+                    Title = $"By : {lyric_search.Data.Select(x => x.Artist).FirstOrDefault()}\n" +
+                            $"Title : {lyric_search.Data.Select(x => x.Name).FirstOrDefault()}"
                 };
 
                 if (lyric.ToCharArray().Count() >= 2048)
@@ -1003,7 +997,7 @@ namespace maicy_bot_core.MaicyServices
 
                     for (int i = 0; i < embed_page; i++)
                     {
-                        await lava_player.TextChannel
+                        await text_channel
                         .SendMessageAsync(default, default, embed
                         .WithColor(Color.Green)
                         .WithDescription(lyric_list.ElementAtOrDefault(i))
@@ -1013,7 +1007,7 @@ namespace maicy_bot_core.MaicyServices
                 }
                 else
                 {
-                    await lava_player.TextChannel
+                    await text_channel
                     .SendMessageAsync(default, default, embed
                     .WithColor(Color.Green)
                     .WithDescription(lyric)

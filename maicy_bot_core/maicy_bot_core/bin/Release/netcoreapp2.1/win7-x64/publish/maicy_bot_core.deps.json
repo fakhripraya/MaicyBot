@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1/win7-x64",
-    "signature": "ff63f4240b5e55813c5e07c0ac56ae09beccd417"
+    "signature": "21764dee0aace9203afd5635252b52e38ac66567"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "maicy_bot_core/1.0.0": {
         "dependencies": {
           "Discord.Net": "2.1.1",
+          "KSoft.Net": "2.3.2",
           "Microsoft.NETCore.App": "2.1.5",
           "Newtonsoft.Json": "12.0.3",
           "SpotifyAPI.Web.Auth": "4.2.2",
@@ -101,6 +102,17 @@
           }
         }
       },
+      "KSoft.Net/2.3.2": {
+        "dependencies": {
+          "RestSharp": "106.6.10"
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/KSoft.Net.dll": {
+            "assemblyVersion": "2.3.2.0",
+            "fileVersion": "2.3.2.0"
+          }
+        }
+      },
       "LtGt/1.0.2": {
         "dependencies": {
           "Sprache": "2.2.0"
@@ -169,6 +181,14 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
             "assemblyVersion": "12.0.0.0",
             "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "RestSharp/106.6.10": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.6.10.0",
+            "fileVersion": "106.6.10.0"
           }
         }
       },
@@ -1353,6 +1373,13 @@
       "path": "embedio/2.9.2",
       "hashPath": "embedio.2.9.2.nupkg.sha512"
     },
+    "KSoft.Net/2.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zGUNEJxtdmMkQInS7aNM57YWOnk9MAc5qQhj2u8iCHDaoa1nfhBw70Ft0TjrjGHWlCz0wyZTXqJxpH0UkNgYSQ==",
+      "path": "ksoft.net/2.3.2",
+      "hashPath": "ksoft.net.2.3.2.nupkg.sha512"
+    },
     "LtGt/1.0.2": {
       "type": "package",
       "serviceable": true,
@@ -1429,6 +1456,13 @@
       "sha512": "sha512-aTRmXwR5xYu+mWxE8r8W1DWnL02SeV8LwdQMsLwTWP8OZgrCCyTqvOAe5hRb1VNQYXjln7qr0PKpSyO/pcc19Q==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "RestSharp/106.6.10": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MMLyolW6zkWNmEvJrrpTRmNaDRm6/KJBceb15U9uD6ZBEdySXNB3WCP/cWb8YmLUQoRhlIz9hbsnqfI6v3xKgQ==",
+      "path": "restsharp/106.6.10",
+      "hashPath": "restsharp.106.6.10.nupkg.sha512"
     },
     "runtime.win-x64.Microsoft.NETCore.App/2.1.5": {
       "type": "package",

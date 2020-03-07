@@ -1,215 +1,59 @@
-2020-03-04 00:06:38.429  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:06:39.160  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: yiruma cover sungha jung
-2020-03-04 00:07:46.432  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:07:47.026  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: sad lofi for sleep
-2020-03-04 00:07:55.153  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:07:55.764  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: the elegance of pachelbel
-2020-03-04 00:08:01.833  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAjQIAKChZaXJ1bWEpIFJpdmVyIEZsb3cgaW4gWW91IC0gU3VuZ2hhIEp1bmcAC1N1bmdoYSBKdW5nAAAAAAADctAAC1BfeEZoN1hGQ193AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UF94Rmg3WEZDX3cAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 00:09:36.896  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:09:37.413  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Kitaro koi
-2020-03-04 00:11:46.322  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:11:46.790  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: nostalgia sungha jung
-2020-03-04 00:11:48.369  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAgwIAGnNhZCBsb2ZpIHRvIGhlbHAgeW91IHNsZWVwAA90aGUgYm9vdGxlZyBib3kAAAAAABCd6AALZjNrRXpNQ1hSZkkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1mM2tFek1DWFJmSQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 00:12:13.520  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:12:14.072  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: yiruma cover sungha jung
-2020-03-04 00:12:14.083  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAjQIAKChZaXJ1bWEpIFJpdmVyIEZsb3cgaW4gWW91IC0gU3VuZ2hhIEp1bmcAC1N1bmdoYSBKdW5nAAAAAAADctAAC1BfeEZoN1hGQ193AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UF94Rmg3WEZDX3cAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:12:14.403  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"sessionId":"6dd69f2fd88869130eb375a5e7e33d1c","event":{"token":"c1547d9d2e698cfa","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 00:12:14.404  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"sessionId":"6dd69f2fd88869130eb375a5e7e33d1c","event":{"token":"c1547d9d2e698cfa","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 00:12:14.432  INFO 12448 --- [parallel-3] space.npstr.magma.impl.AudioStack        : Discarding received connection request because it is identical to the already existing connection. If you really want to reconnect, send a disconnect request first.
-2020-03-04 00:16:00.173  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:16:00.783  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: (Yiruma) River Flow in You - Sungha Jung
-2020-03-04 00:16:00.797  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAngIAOShZaXJ1bWEpIFJpdmVyIGZsb3dzIGluIHlvdSAtIFN1bmdoYSBKdW5nIChMaXZlIGluIEhhbm9pKQALS29vbCBQaG90w7MAAAAAAAPoAAALVFZQc2pBWkdVdEkAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1UVlBzakFaR1V0SQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:16:39.700  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:16:39.703  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:16:40.223  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: (Yiruma) River flows in you - Sungha Jung (Live in Hanoi)
-2020-03-04 00:16:40.226  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAmwIANihZaXJ1bWEpIFJpdmVyIEZsb3dzIEluIFlvdSAtIFN1bmdoYSBKdW5nIChQaWFubyBMaXZlKQALU3VuZ2hhIEp1bmcAAAAAAANrAAALUy1va1NaWExwSkUAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1TLW9rU1pYTHBKRQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:16:46.902  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:16:46.907  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:16:47.468  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: (Yiruma) River Flows In You - Sungha Jung (Piano Live)
-2020-03-04 00:16:47.472  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAlAIAMVJpdmVyIEZsb3dzIGluIFlvdSAtIFlJUlVNQSBMaXZlIGF0IEhPQU0gQXJ0IEhhbGwACURlYWxvdmEyNAAAAAAAA44oAAt0b0tUTG9maGJBZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXRvS1RMb2ZoYkFnAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:16:54.114  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:16:54.118  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:16:54.669  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: River Flows in You - YIRUMA Live at HOAM Art Hall
-2020-03-04 00:16:54.679  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAlwIAHDIwMTkvMDkvMTggeWlydW1hIHBsYWNlIExpdmUAIVlJUlVNQSBwbGFjZSAvIOydtOujqOuniCBvZmZpY2lhbAAAAAAAP5VYAAt3a0NZSXo0dnJvYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXdrQ1lJejR2cm9jAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:17:00.817  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:17:00.819  INFO 12448 --- [XNIO-1 task-26] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:17:01.329  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 2019/09/18 yiruma place Live
-2020-03-04 00:17:01.332  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAlwIAHDIwMTkvMDkvMjUgeWlydW1hIHBsYWNlIGxpdmUAIVlJUlVNQSBwbGFjZSAvIOydtOujqOuniCBvZmZpY2lhbAAAAAAAMMwwAAtIZmR2NFE0b1lmOAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUhmZHY0UTRvWWY4AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:17:07.101  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:17:07.104  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:17:07.622  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 2019/09/25 yiruma place live
-2020-03-04 00:17:07.628  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAlwIAHDIwMTkvMTAvOSB5aXJ1bWEgcGxhY2UgbGl2ZTIAIVlJUlVNQSBwbGFjZSAvIOydtOujqOuniCBvZmZpY2lhbAAAAAAAEFeYAAs5eDZWSkNIUWwwZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTl4NlZKQ0hRbDBnAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:17:12.711  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:17:12.713  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:17:13.213  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 2019/10/9 yiruma place live2
-2020-03-04 00:17:13.217  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAApQIAPlRoZSBCZXN0IE9mIFlJUlVNQSBZaXJ1bWEncyBHcmVhdGVzdCBIaXRzIH4gQmVzdCBQaWFubyAoSEQvSFEpAA1NaXJhY2xlIE11c2ljAAAAAAA9CQAACy1KMi1rNld2QVdVAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9LUoyLWs2V3ZBV1UAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:17:26.004  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 00:17:26.006  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 00:17:26.602  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: The Best Of YIRUMA Yiruma's Greatest Hits ~ Best Piano (HD/HQ)
-2020-03-04 00:17:26.608  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAA5AIAZjMgSG91ciBSZWxheGluZyBHdWl0YXIgTXVzaWM6IE1lZGl0YXRpb24gTXVzaWMsIEluc3RydW1lbnRhbCBNdXNpYywgQ2FsbWluZyBNdXNpYywgU29mdCBNdXNpYywg4pivMjQzMgAkWWVsbG93IEJyaWNrIENpbmVtYSAtIFJlbGF4aW5nIE11c2ljAAAAAACk9ngAC3NzN0VKLVBXMlVrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9c3M3RUotUFcyVWsAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 00:29:56.836  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAkAIAJFRoZSBFbGVnYW5jZSBvZiBQYWNoZWxiZWwgLSBTZXJlbmFkZQASRHp1bGZha2hydWwgTmFqd2FuAAAAAAAHanAACzhUSFZoT21hRGRRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OFRIVmhPbWFEZFEAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 00:38:02.243  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAbAIADEtpdGFybyAtIEtvaQAGS2l0YXJvAAAAAAAF91gACzVITUNON1V3c3E0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9NUhNQ043VXdzcTQAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 00:44:32.903  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAiQIAJChTdW5naGEgSnVuZykgTm9zdGFsZ2lhLSBTdW5naGEgSnVuZwALU3VuZ2hhIEp1bmcAAAAAAATSYAALc0wxOWtJYVhFX3cAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1zTDE5a0lhWEVfdwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 00:49:48.879  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"guildId":"576298549524955166","op":"destroy"}
-2020-03-04 01:03:53.913  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 01:03:53.921  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:03:54.670  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
-2020-03-04 01:03:54.677  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:03:55.192  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Yellow Brick Cinema - Relaxing Music
-2020-03-04 01:03:55.198  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAA3wIAYTMwIE1pbnV0ZSBEZWVwIFNsZWVwIE11c2ljOiBDYWxtaW5nIE11c2ljLCBSZWxheGluZyBNdXNpYywgU29vdGhpbmcgTXVzaWMsIENhbG1pbmcgTXVzaWMsIOKYrzQyNkIAJFllbGxvdyBCcmljayBDaW5lbWEgLSBSZWxheGluZyBNdXNpYwAAAAAAG38QAAtGYVJycTdjWXU4NAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUZhUnJxN2NZdTg0AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 01:04:04.470  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
-2020-03-04 01:04:04.857  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
-2020-03-04 01:04:41.881  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:04:42.460  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: if i never knew u piano sam
-2020-03-04 01:04:42.468  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAApwIAPklmIEkgTmV2ZXIgS25ldyBZb3UgKFBpYW5vIFZlcnNpb24pIC0gUG9jYWhvbnRhcyAtIGJ5IFNhbSBZdW5nAA9TYW1ZdW5nT2ZmaWNpYWwAAAAAAAJGCAALZEpNZUY2djNvdjAAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kSk1lRjZ2M292MAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 01:04:42.811  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"sessionId":"6dd69f2fd88869130eb375a5e7e33d1c","event":{"token":"5727e23dd1b33fba","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 01:04:42.812  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"sessionId":"6dd69f2fd88869130eb375a5e7e33d1c","event":{"token":"5727e23dd1b33fba","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 01:04:42.821  INFO 12448 --- [parallel-3] space.npstr.magma.impl.AudioStack        : Discarding received connection request because it is identical to the already existing connection. If you really want to reconnect, send a disconnect request first.
-2020-03-04 01:07:11.545  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
-2020-03-04 01:08:01.585  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:08:02.052  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: lullaby brhams
-2020-03-04 01:08:02.059  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"track":"QAAAswIATEJyYWhtcycgTHVsbGFieSAoRXh0cmEtUmVsYXhpbmcgdnMpIOKZqyBDbGFzc2ljYWwgTXVzaWMgdG8gU2xlZXAgb3IgU3R1ZHkgdG8ADU1jQ2x1bmcgTXVzaWMAAAAAApKhYAALSVhjR09Sald0ZTgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1JWGNHT1JqV3RlOAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 01:08:02.350  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"sessionId":"6dd69f2fd88869130eb375a5e7e33d1c","event":{"token":"7bf13cca2a73b7f5","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 01:08:02.351  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"sessionId":"6dd69f2fd88869130eb375a5e7e33d1c","event":{"token":"7bf13cca2a73b7f5","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 01:08:02.360  INFO 12448 --- [parallel-3] space.npstr.magma.impl.AudioStack        : Discarding received connection request because it is identical to the already existing connection. If you really want to reconnect, send a disconnect request first.
-2020-03-04 01:28:47.338  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:47.906  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Moon River Frank Ocean
-2020-03-04 01:28:47.912  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAeQIAGEZyYW5rIE9jZWFuIC0gTW9vbiBSaXZlcgAHQmxvbmRlZAAAAAAAAuJIAAttWGlGSERmdm40QQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW1YaUZIRGZ2bjRBAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"388355964195307530","op":"play"}
-2020-03-04 01:28:47.914  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:48.495  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: EARFQUAKE Tyler, The Creator
-2020-03-04 01:28:48.502  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:48.959  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Empty Kevin Abstract
-2020-03-04 01:28:48.969  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:49.453  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Streetcar Daniel Caesar
-2020-03-04 01:28:49.460  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:50.019  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Summertime In Paris Jaden
-2020-03-04 01:28:50.642  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:51.200  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: FACE BROCKHAMPTON
-2020-03-04 01:28:51.210  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:51.656  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Triggered (freestyle) Jhené Aiko
-2020-03-04 01:28:51.678  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:52.171  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Japanese Denim Daniel Caesar
-2020-03-04 01:28:52.180  INFO 12448 --- [XNIO-1 task-26] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:52.758  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Boredom (feat. Rex Orange County & Anna of the North) Tyler, The Creator
-2020-03-04 01:28:52.764  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:53.240  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Goodbyes Jorja Smith
-2020-03-04 01:28:53.851  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:54.377  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: While We're Young Jhené Aiko
-2020-03-04 01:28:54.383  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:54.917  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Love Galore (feat. Travis Scott) SZA
-2020-03-04 01:28:54.926  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:55.376  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: SOHO Jaden
-2020-03-04 01:28:55.385  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:55.892  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Cocoa Butter Kisses Chance the Rapper
-2020-03-04 01:28:55.902  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:56.361  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 3 Nights Dominic Fike
-2020-03-04 01:28:56.981  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:57.477  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Self Control Frank Ocean
-2020-03-04 01:28:57.493  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:57.974  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Ultralight Beam Kanye West
-2020-03-04 01:28:57.981  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:58.411  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Dead To Me Kali Uchis
-2020-03-04 01:28:58.420  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:58.997  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: None Of Your Concern Jhené Aiko
-2020-03-04 01:28:59.007  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:28:59.495  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Break from Toronto PARTYNEXTDOOR
-2020-03-04 01:29:00.110  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:00.551  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Broken Clocks SZA
-2020-03-04 01:29:00.559  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:01.023  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
-2020-03-04 01:29:01.029  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:01.521  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Who Hurt You? Daniel Caesar
-2020-03-04 01:29:01.526  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:01.995  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: NO HALO BROCKHAMPTON
-2020-03-04 01:29:02.000  INFO 12448 --- [XNIO-1 task-26] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:02.463  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Same Drugs Chance the Rapper
-2020-03-04 01:29:03.096  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:03.617  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy) Tyler, The Creator
-2020-03-04 01:29:03.630  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:04.215  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Thinkin Bout You Frank Ocean
-2020-03-04 01:29:04.227  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:04.778  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Don't Watch Me Cry Jorja Smith
-2020-03-04 01:29:04.786  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:05.472  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Hit Me Up Omar Apollo
-2020-03-04 01:29:05.479  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:05.934  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Skin Dijon
-2020-03-04 01:29:06.574  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:07.018  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Good Guy Frank Ocean
-2020-03-04 01:29:07.026  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:07.526  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: A BOY IS A GUN* Tyler, The Creator
-2020-03-04 01:29:07.534  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:08.028  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Every Kind Of Way H.E.R.
-2020-03-04 01:29:08.038  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:08.500  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Blue Lights Jorja Smith
-2020-03-04 01:29:08.510  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:09.071  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Chanel Frank Ocean
-2020-03-04 01:29:09.714  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:10.390  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: IFHY Tyler, The Creator
-2020-03-04 01:29:10.398  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:10.819  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 10% KAYTRANADA
-2020-03-04 01:29:10.825  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:11.371  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: All Falls Down Kanye West
-2020-03-04 01:29:11.377  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:11.895  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Follow God Kanye West
-2020-03-04 01:29:11.900  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:12.339  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Hard Place H.E.R.
-2020-03-04 01:29:12.927  INFO 12448 --- [XNIO-1 task-26] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:13.315  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Trust Brent Faiyaz
-2020-03-04 01:29:13.317  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:13.741  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: DHL Frank Ocean
-2020-03-04 01:29:13.743  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:14.219  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Açaí Bowl Dominic Fike
-2020-03-04 01:29:14.223  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:14.697  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ARE WE STILL FRIENDS? Tyler, The Creator
-2020-03-04 01:29:14.700  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:15.150  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Ninety Jaden
-2020-03-04 01:29:15.755  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:16.203  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: In My Room Frank Ocean
-2020-03-04 01:29:16.206  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:29:16.705  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: BLEACH BROCKHAMPTON
-2020-03-04 01:29:17.660  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"971271a406648e54e29fd79ffafc916a","event":{"token":"6ae84b2294b1c440","guildid":"388355964195307530","endpoint":"singapore19.discord.media:80"},"guildId":"388355964195307530","op":"voiceUpdate"}
-2020-03-04 01:29:17.660  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"971271a406648e54e29fd79ffafc916a","event":{"token":"6ae84b2294b1c440","guildid":"388355964195307530","endpoint":"singapore19.discord.media:80"},"guildId":"388355964195307530","op":"voiceUpdate"}
-2020-03-04 01:29:17.688  INFO 12448 --- [parallel-1] space.npstr.magma.impl.AudioStack        : Discarding received connection request because it is identical to the already existing connection. If you really want to reconnect, send a disconnect request first.
-2020-03-04 01:32:25.505  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAdQIACUVBUkZRVUFLRQASVHlsZXIsIFRoZSBDcmVhdG9yAAAAAAAEEvgAC0htQXNVUUVGWUdJAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SG1Bc1VRRUZZR0kAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"388355964195307530","op":"play"}
-2020-03-04 01:34:24.995  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"388355964195307530","op":"destroy"}
-2020-03-04 01:34:25.683  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"971271a406648e54e29fd79ffafc916a","event":{"token":"e6bf0519b69093cc","guildid":"388355964195307530","endpoint":"singapore19.discord.media:80"},"guildId":"388355964195307530","op":"voiceUpdate"}
-2020-03-04 01:34:25.684  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"971271a406648e54e29fd79ffafc916a","event":{"token":"e6bf0519b69093cc","guildid":"388355964195307530","endpoint":"singapore19.discord.media:80"},"guildId":"388355964195307530","op":"voiceUpdate"}
-2020-03-04 01:34:25.691  INFO 12448 --- [parallel-1] space.npstr.magma.impl.AudioStack        : Discarding received connection request because it is identical to the already existing connection. If you really want to reconnect, send a disconnect request first.
-2020-03-04 01:34:26.053  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"388355964195307530","op":"destroy"}
-2020-03-04 01:34:34.922  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:34:35.419  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: So Lonely Jorja Smith
-2020-03-04 01:34:35.427  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlAIAMUpvcmphIFNtaXRoIC0gU28gTG9uZWx5IChCQkMgTXVzaWMgU291bmQgT2YgMjAxNykACUJCQyBNdXNpYwAAAAAAA27oAAtPRGlaNm9wN2dndwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU9EaVo2b3A3Z2d3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"388355964195307530","op":"play"}
-2020-03-04 01:34:35.428  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:34:35.905  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Get You (feat. Kali Uchis) Daniel Caesar
-2020-03-04 01:34:35.913  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:34:36.190  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443: The target server failed to respond
-2020-03-04 01:34:36.191  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443
-2020-03-04 01:34:36.251  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443: The target server failed to respond
-2020-03-04 01:34:36.251  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443
-2020-03-04 01:34:36.316  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443: The target server failed to respond
-2020-03-04 01:34:36.316  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443
-2020-03-04 01:34:36.342  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Your Teeth In My Neck Kali Uchis
-2020-03-04 01:34:36.348  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 01:34:36.380  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443: The target server failed to respond
-2020-03-04 01:34:36.380  INFO 12448 --- [lava-daemon-pool-playback-22-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r6---sn-npoeen7r.googlevideo.com:443
-2020-03-04 01:34:36.455 ERROR 12448 --- [lava-daemon-pool-playback-22-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Error in playback of ODiZ6op7ggw
+2020-03-07 00:58:16.034  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 00:58:23.682  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 02:12:43.292  INFO 5916 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:12:43.868  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: sofi tukker purple hat
+2020-03-07 02:12:43.908  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAnAIAN1NPRkkgVFVLS0VSIC0gUHVycGxlIEhhdCAoT2ZmaWNpYWwgVmlkZW8pIFtVbHRyYSBNdXNpY10AC1VsdHJhIE11c2ljAAAAAAACuzgAC2hPRU1zcVd4NG5FAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aE9FTXNxV3g0bkUAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"404731402429530132","op":"play"}
+2020-03-07 02:12:44.289  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"d4d7c2600e837d48","guildid":"404731402429530132","endpoint":"eu-central680.discord.media:80"},"guildId":"404731402429530132","op":"voiceUpdate"}
+2020-03-07 02:15:07.369  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"404731402429530132","op":"destroy"}
+2020-03-07 02:53:31.936  INFO 5916 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:53:32.509  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: everythingi wanted billy
+2020-03-07 02:53:32.550  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAigIAI0JpbGxpZSBFaWxpc2ggLSBldmVyeXRoaW5nIGkgd2FudGVkAA1CaWxsaWUgRWlsaXNoAAAAAAAEZQAAC0VnQkptbFBvOFh3AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RWdCSm1sUG84WHcAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 02:53:32.864  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"0a54789446d39004","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 02:54:21.097  INFO 5916 --- [XNIO-1 task-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:54:21.680  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: fix you
+2020-03-07 02:54:35.939  INFO 5916 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:54:36.531  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: scientist
+2020-03-07 02:57:00.703  INFO 5916 --- [XNIO-1 task-11] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:57:01.224  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: billie i love you
+2020-03-07 02:57:24.678  INFO 5916 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:57:25.306  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: coldplay in my place
+2020-03-07 02:58:20.637  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAdAIAEkNvbGRwbGF5IC0gRml4IFlvdQAIQ29sZHBsYXkAAAAAAASEQAALazRWM01vNjFmSk0AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1rNFYzTW82MWZKTQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 02:59:00.538  INFO 5916 --- [XNIO-1 task-15] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:59:01.073  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: the rythm of the night corona
+2020-03-07 02:59:15.702  INFO 5916 --- [XNIO-1 task-17] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:59:16.216  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: anthem n-joy
+2020-03-07 02:59:47.337  INFO 5916 --- [XNIO-1 task-19] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 02:59:47.809  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: mike posner cooler than me
+2020-03-07 03:03:16.457  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAegIAGENvbGRwbGF5IC0gVGhlIFNjaWVudGlzdAAIQ29sZHBsYXkAAAAAAAQPEAALUkItUmNYNURTNUEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1SQi1SY1g1RFM1QQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:06:21.059  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443: The target server failed to respond
+2020-03-07 03:06:21.107  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443
+2020-03-07 03:06:21.117  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443: The target server failed to respond
+2020-03-07 03:06:21.117  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443
+2020-03-07 03:06:21.164  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443: The target server failed to respond
+2020-03-07 03:06:21.164  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443
+2020-03-07 03:06:21.174  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443: The target server failed to respond
+2020-03-07 03:06:21.174  INFO 5916 --- [lava-daemon-pool-playback-5-thread-1] o.apache.http.impl.execchain.RetryExec   : Retrying request to {s}->https://r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443
+2020-03-07 03:06:21.588 ERROR 5916 --- [lava-daemon-pool-playback-5-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Error in playback of RB-RcX5DS5A
 
-com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Something broke when playing the track.
+com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Something went wrong when decoding the track.
 	at com.sedmelluq.discord.lavaplayer.tools.ExceptionTools.wrapUnfriendlyExceptions(ExceptionTools.java:43) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:103) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
-	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
-Caused by: java.lang.RuntimeException: org.apache.http.NoHttpResponseException: r6---sn-npoeen7r.googlevideo.com:443 failed to respond
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.loadMatroskaFile(MatroskaAudioTrack.java:57) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:35) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:280) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:236) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:91) ~[lavaplayer-1.3.32.jar!/:na]
-	... 4 common frames omitted
-Caused by: org.apache.http.NoHttpResponseException: r6---sn-npoeen7r.googlevideo.com:443 failed to respond
+	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) ~[lavaplayer-1.3.32.jar!/:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
+	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
+Caused by: java.lang.RuntimeException: org.apache.http.NoHttpResponseException: r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443 failed to respond
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:309) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:262) ~[lavaplayer-1.3.32.jar!/:na]
+	... 10 common frames omitted
+Caused by: org.apache.http.NoHttpResponseException: r1---sn-2uuxa3vh-jb3e6.googlevideo.com:443 failed to respond
 	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:141) ~[httpclient-4.5.10.jar!/:4.5.10]
 	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56) ~[httpclient-4.5.10.jar!/:4.5.10]
 	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259) ~[httpcore-4.4.12.jar!/:4.4.12]
@@ -226,375 +70,264 @@ Caused by: org.apache.http.NoHttpResponseException: r6---sn-npoeen7r.googlevideo
 	at com.sedmelluq.discord.lavaplayer.tools.io.HttpInterface.execute(HttpInterface.java:72) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.attemptConnect(PersistentHttpStream.java:113) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.connect(PersistentHttpStream.java:105) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:150) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:166) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.io.DataInputStream.readByte(DataInputStream.java:270) ~[na:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MatroskaEbmlReader.readEbmlInteger(MatroskaEbmlReader.java:39) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MatroskaFileReader.readNextElement(MatroskaFileReader.java:46) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.readFile(MatroskaStreamingFile.java:79) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.loadMatroskaFile(MatroskaAudioTrack.java:52) ~[lavaplayer-1.3.32.jar!/:na]
-	... 9 common frames omitted
-
-2020-03-04 01:34:36.459  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"388355964195307530","op":"destroy"}
-2020-03-04 01:34:36.866  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 10% KAYTRANADA
-2020-03-04 06:15:16.925  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
-2020-03-04 06:32:36.396  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54322 -- CloseStatus[code=1006, reason=]
-2020-03-04 06:32:36.397  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 06:32:36.397  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54325 -- CloseStatus[code=1006, reason=]
-2020-03-04 06:32:36.397  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 06:32:36.397  INFO 12448 --- [XNIO-1 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 06:32:36.397  INFO 12448 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 06:32:49.118  INFO 12448 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:57557
-2020-03-04 06:32:49.123  INFO 12448 --- [XNIO-1 task-16] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 06:32:49.134  INFO 12448 --- [XNIO-1 task-16] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:57557
-2020-03-04 07:48:59.943  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54324 -- CloseStatus[code=1006, reason=]
-2020-03-04 07:48:59.944  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 07:48:59.944  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54326 -- CloseStatus[code=1006, reason=]
-2020-03-04 07:48:59.944  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 07:48:59.945  INFO 12448 --- [XNIO-1 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 07:48:59.953  INFO 12448 --- [XNIO-1 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 07:51:12.253  INFO 12448 --- [XNIO-1 task-17] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58407
-2020-03-04 07:51:12.258  INFO 12448 --- [XNIO-1 task-17] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 07:51:12.264  INFO 12448 --- [XNIO-1 task-17] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58407
-2020-03-04 07:51:31.926  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 07:51:32.539  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: meet me that way
-2020-03-04 07:51:32.566  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAhwIAIEtlbm55IExvZ2dpbnMgLSBNZWV0IE1lIEhhbGYgV2F5AA1LZW5ueSBMb2dnaW5zAAAAAAADQ/AACzNwWU5kME1TVlhzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9M3BZTmQwTVNWWHMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 07:51:33.025  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"d9e264888058352e0480dc7e6e4e345d","event":{"token":"524d1df19f2bb155","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 07:51:37.822  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 07:51:38.293  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: gorillaz feels good inc
-2020-03-04 07:51:48.602  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 07:51:49.055  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: can you meet me halfway bep
-2020-03-04 07:51:53.148  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAjAIAKkdvcmlsbGF6IC0gRmVlbCBHb29kIEluYy4gKE9mZmljaWFsIFZpZGVvKQAIR29yaWxsYXoAAAAAAAPgMAALSHlITnVWYVpKLWsAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1IeUhOdVZhWkotawAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 07:56:07.899  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAApQIAPFRoZSBCbGFjayBFeWVkIFBlYXMgLSBNZWV0IE1lIEhhbGZ3YXkgKE9mZmljaWFsIE11c2ljIFZpZGVvKQAPQmxhY2sgRXllZCBQZWFzAAAAAAAEbNAAC0k3SGFoVndZcHdvAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9STdIYWhWd1lwd28AB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:00:57.334  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:00:57.989  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: The Black Eyed Peas - Meet Me Halfway (Official Music Video)
-2020-03-04 08:00:57.994  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAApAIAOkIuby5CIC0gTm90aGluJyBPbiBZb3UgKGZlYXQuIEJydW5vIE1hcnMpIFtPZmZpY2lhbCBWaWRlb10AEEF0bGFudGljIFJlY29yZHMAAAAAAAOGWAALOFBURHZfc3ptTDAAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj04UFREdl9zem1MMAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:04:48.222  INFO 12448 --- [XNIO-1 task-26] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:04:48.835  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: B.o.B - Nothin' On You (feat. Bruno Mars) [Official Video]
-2020-03-04 08:04:48.843  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAlgIAMUIuby5CIC0gTm90aGluJyBPbiBZb3UgKEZlYXQuIEJydW5vIE1hcnMpIChBdWRpbykAC2Rvb25nIGRvb25nAAAAAAAEDxAAC3UzbHo3b1NkNkpFAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dTNsejdvU2Q2SkUAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:07:17.108  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
-2020-03-04 08:08:19.572  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"d9e264888058352e0480dc7e6e4e345d","event":{"token":"66b74976dc89c471","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:09:13.236  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58407 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:09:13.237  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:09:13.237  INFO 12448 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:12:35.170  INFO 12448 --- [XNIO-1 task-28] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58700
-2020-03-04 08:12:35.175  INFO 12448 --- [XNIO-1 task-28] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:12:35.181  INFO 12448 --- [XNIO-1 task-28] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58700
-2020-03-04 08:12:42.674  INFO 12448 --- [XNIO-1 task-29] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:12:42.952 ERROR 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Load failed
-
-com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The playlist does not exist.
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubePlaylistLoader.buildPlaylist(DefaultYoutubePlaylistLoader.java:56) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubePlaylistLoader.load(DefaultYoutubePlaylistLoader.java:42) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager$LoadingRoutes.playlist(YoutubeAudioSourceManager.java:240) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager$LoadingRoutes.playlist(YoutubeAudioSourceManager.java:228) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeLinkRouter.routeFromMainDomain(DefaultYoutubeLinkRouter.java:67) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeLinkRouter.route(DefaultYoutubeLinkRouter.java:39) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager.loadItemOnce(YoutubeAudioSourceManager.java:196) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager.loadItem(YoutubeAudioSourceManager.java:133) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:437) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:419) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$createItemLoader$0(DefaultAudioPlayerManager.java:218) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
-	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
-
-2020-03-04 08:12:52.363  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"1a0450d4f2e31c229786d8c04f9182f7","event":{"token":"4177a8e69ca658cc","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:13:15.545  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58700 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:13:15.545  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:13:15.545  INFO 12448 --- [XNIO-1 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:15:23.908  INFO 12448 --- [XNIO-1 task-31] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58731
-2020-03-04 08:15:23.912  INFO 12448 --- [XNIO-1 task-31] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:15:23.919  INFO 12448 --- [XNIO-1 task-31] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58731
-2020-03-04 08:16:23.972  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:16:25.031  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Best Pop Songs of All Time: Playlist of Good Songs (Throwback Hits & Pop Music 2020 to 2021)
-2020-03-04 08:16:25.471  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAtwIAUldpeiBLaGFsaWZhIC0gU2VlIFlvdSBBZ2FpbiBmdC4gQ2hhcmxpZSBQdXRoIFtPZmZpY2lhbCBWaWRlb10gRnVyaW91cyA3IFNvdW5kdHJhY2sAC1dpeiBLaGFsaWZhAAAAAAADobAAC1JnS0FGSzVkalNrAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UmdLQUZLNWRqU2sAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:16:26.181  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"ab9ce8f6deb2a08f297e402229b24006","event":{"token":"9a0e00da30e3d29d","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:16:41.807  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
-2020-03-04 08:18:34.871  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:18:38.107  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist All Uploads
-2020-03-04 08:18:38.477  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAggIAIERyYWtlIC0gR29kJ3MgUGxhbiAoTHlyaWMgVmlkZW8pAAhSYXAgQ2l0eQAAAAAAAw1AAAtwUEt4LWZvbjFuWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXBQS3gtZm9uMW5ZAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:18:39.095  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"ab9ce8f6deb2a08f297e402229b24006","event":{"token":"8725919734bcdfde","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:18:45.562  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
-2020-03-04 08:19:08.487  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:19:11.718  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist All Uploads
-2020-03-04 08:19:24.418  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58731 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:19:24.418  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:19:24.418  INFO 12448 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:21:26.722  INFO 12448 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58790
-2020-03-04 08:21:26.727  INFO 12448 --- [XNIO-1 task-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:21:26.732  INFO 12448 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58790
-2020-03-04 08:21:43.755  INFO 12448 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:21:46.843  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist All Uploads
-2020-03-04 08:22:02.021  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58790 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:22:02.021  INFO 12448 --- [XNIO-1 I/O-2] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:22:02.022  INFO 12448 --- [XNIO-1 I/O-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:33:29.298  INFO 12448 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:58949
-2020-03-04 08:33:29.303  INFO 12448 --- [XNIO-1 task-9] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:33:29.308  INFO 12448 --- [XNIO-1 task-9] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:58949
-2020-03-04 08:34:28.251  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:28.752  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Seeker of the Serpent's Eye Jóhann Jóhannsson
-2020-03-04 08:34:28.777  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiAIAG1NlZWtlciBvZiB0aGUgU2VycGVudCdzIEV5ZQATSsOzaGFubiBKw7NoYW5uc3NvbgAAAAAAAgOgAAtJcldrYmdteV93ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUlyV2tiZ215X3dnAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:34:28.780  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:29.204  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Starling Jóhann Jóhannsson
-2020-03-04 08:34:29.215  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:29.734  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Mandy Love Theme Jóhann Jóhannsson
-2020-03-04 08:34:29.739  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:30.108  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Horns of Abraxas Jóhann Jóhannsson
-2020-03-04 08:34:30.110  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:30.586  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Black Skulls Jóhann Jóhannsson
-2020-03-04 08:34:31.259  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:31.688  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Death and Ashes Jóhann Jóhannsson
-2020-03-04 08:34:31.693  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:32.107  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Sand Jóhann Jóhannsson
-2020-03-04 08:34:32.126  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:32.507  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Red Jóhann Jóhannsson
-2020-03-04 08:34:32.511  INFO 12448 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:32.961  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Forging the Beast Jóhann Jóhannsson
-2020-03-04 08:34:32.964  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:33.384  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Dive-Bomb Blues Jóhann Jóhannsson
-2020-03-04 08:34:33.962  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:34.324  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Waste Jóhann Jóhannsson
-2020-03-04 08:34:34.329  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:34.728  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Temple Jóhann Jóhannsson
-2020-03-04 08:34:34.733  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:35.192  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Burning Church Jóhann Jóhannsson
-2020-03-04 08:34:35.198  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:35.624  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Memories Jóhann Jóhannsson
-2020-03-04 08:34:35.638  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:34:36.134  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Children of the New Dawn Jóhann Jóhannsson
-2020-03-04 08:34:37.101  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"8e6b3929c363cedb9b97ab55e5178652","event":{"token":"ac63b6ddbb2570b9","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:35:22.543  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:58949 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:35:22.543  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
-2020-03-04 08:35:22.543  INFO 12448 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:35:22.549  WARN 12448 --- [lava-daemon-pool-playback-53-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of IrWkbgmy_wg
-
-com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The track was unexpectedly terminated.
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.handlePlaybackInterrupt(LocalAudioTrackExecutor.java:334) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:278) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:236) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:91) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
-	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
-Caused by: java.lang.InterruptedException: null
-	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056) ~[na:na]
-	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2090) ~[na:na]
-	at java.base/java.util.concurrent.ArrayBlockingQueue.put(ArrayBlockingQueue.java:367) ~[na:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.consume(AllocatingAudioFrameBuffer.java:179) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.passThrough(OpusPacketRouter.java:169) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.process(OpusPacketRouter.java:99) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaOpusTrackConsumer.consume(MatroskaOpusTrackConsumer.java:47) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:170) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.internalRead(PersistentHttpStream.java:180) ~[lavaplayer-1.3.32.jar!/:na]
+	at com.sedmelluq.discord.lavaplayer.tools.io.PersistentHttpStream.read(PersistentHttpStream.java:186) ~[lavaplayer-1.3.32.jar!/:na]
+	at java.base/java.io.DataInputStream.readFully(DataInputStream.java:200) ~[na:na]
+	at com.sedmelluq.discord.lavaplayer.container.matroska.format.MutableMatroskaBlock.getNextFrameBuffer(MutableMatroskaBlock.java:54) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321) ~[lavaplayer-1.3.32.jar!/:na]
 	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:262) ~[lavaplayer-1.3.32.jar!/:na]
-	... 10 common frames omitted
+	... 12 common frames omitted
 
-2020-03-04 08:39:22.819  INFO 12448 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59035
-2020-03-04 08:39:22.822  INFO 12448 --- [XNIO-1 task-8] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:39:22.828  INFO 12448 --- [XNIO-1 task-8] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59035
-2020-03-04 08:39:33.620  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"812c3186beaa895b50f54df607dc0406","event":{"token":"6414c563ddd88f30","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:40:27.712  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:59035 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:40:27.712  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:40:27.713  INFO 12448 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:40:53.199  INFO 12448 --- [XNIO-1 task-9] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59059
-2020-03-04 08:40:53.203  INFO 12448 --- [XNIO-1 task-9] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:40:53.211  INFO 12448 --- [XNIO-1 task-9] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59059
-2020-03-04 08:41:12.224  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"7489a9c1fa908346e95798e3571502a4","event":{"token":"6414c563ddd88f30","guildid":"673512696288903199","endpoint":"singapore841.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
-2020-03-04 08:41:19.824  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:41:20.296  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ???? ?????????????
-2020-03-04 08:41:21.412  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAjwIAKjI4IOODleOCoeOCpOOCouOCpuOCqeODvOODq+ODu+ODieODqeOCtOODswALQWNlIENyaWZ1ZGUAAAAAAAMJWAALZjJvdTM4Vmh2SjgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1mMm91MzhWaHZKOAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
-2020-03-04 08:41:31.683  INFO 12448 --- [parallel-1] s.n.m.impl.connections.AudioWebSocket    : Websocket to wss://singapore841.discord.media/?v=4 closed with code 4014 and reason Disconnected.
-2020-03-04 08:41:31.692  INFO 12448 --- [parallel-1] s.n.m.impl.connections.AudioWebSocket    : Closing
-2020-03-04 08:41:32.796  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:59059 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:41:32.796  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
-2020-03-04 08:41:32.796  INFO 12448 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:41:32.803  WARN 12448 --- [lava-daemon-pool-playback-61-thread-1] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of f2ou38VhvJ8
-
-com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The track was unexpectedly terminated.
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.handlePlaybackInterrupt(LocalAudioTrackExecutor.java:334) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:278) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:236) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:91) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
-	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
-Caused by: java.lang.InterruptedException: null
-	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056) ~[na:na]
-	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2090) ~[na:na]
-	at java.base/java.util.concurrent.ArrayBlockingQueue.put(ArrayBlockingQueue.java:367) ~[na:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.consume(AllocatingAudioFrameBuffer.java:179) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.passThrough(OpusPacketRouter.java:169) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.process(OpusPacketRouter.java:99) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaOpusTrackConsumer.consume(MatroskaOpusTrackConsumer.java:47) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:262) ~[lavaplayer-1.3.32.jar!/:na]
-	... 10 common frames omitted
-
-2020-03-04 08:48:57.128  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:57557 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:48:57.129  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:48:57.129  INFO 12448 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:50:16.170  INFO 12448 --- [XNIO-1 task-12] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59161
-2020-03-04 08:50:16.174  INFO 12448 --- [XNIO-1 task-12] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:50:16.181  INFO 12448 --- [XNIO-1 task-12] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59161
-2020-03-04 08:50:46.977  INFO 12448 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:50:47.454  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: mawar bodas
-2020-03-04 08:50:47.457  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"track":"QAAAmQIAMlBvcCBTdW5kYSAtIE1hd2FyIEJvZGFzIChBdWRpbyBWaWRlbyBCZW5pbmcgUGlzYW4pAA1UZW1iYW5nIEluZGFoAAAAAAAEk+AACzM5dUxfUXJDTTJjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Mzl1TF9RckNNMmMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 08:50:47.796  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"eb9e7dda8bdf2f8ceb4a58b03e606e4d","event":{"token":"87ce6ce801feca69","guildid":"576298549524955166","endpoint":"singapore541.discord.media:80"},"guildId":"576298549524955166","op":"voiceUpdate"}
-2020-03-04 08:50:47.796  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : {"sessionId":"eb9e7dda8bdf2f8ceb4a58b03e606e4d","event":{"token":"87ce6ce801feca69","guildid":"576298549524955166","endpoint":"singapore541.discord.media:80"},"guildId":"576298549524955166","op":"voiceUpdate"}
-2020-03-04 08:50:47.830  INFO 12448 --- [parallel-3] space.npstr.magma.impl.AudioStack        : Discarding received connection request because it is identical to the already existing connection. If you really want to reconnect, send a disconnect request first.
-2020-03-04 08:51:21.515  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54321 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:51:21.516  INFO 12448 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:51:21.517  INFO 12448 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:51:30.742  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54323 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:51:30.743  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 1 playing players.
-2020-03-04 08:51:30.743  INFO 12448 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:51:30.753  WARN 12448 --- [lava-daemon-pool-playback-5-thread-4] c.s.d.l.t.p.LocalAudioTrackExecutor      : Suspicious exception for playback of 39uL_QrCM2c
-
-com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The track was unexpectedly terminated.
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.handlePlaybackInterrupt(LocalAudioTrackExecutor.java:334) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:278) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:236) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.process(MatroskaAudioTrack.java:39) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.DelegatedAudioTrack.processDelegate(DelegatedAudioTrack.java:25) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.processStatic(YoutubeAudioTrack.java:57) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioTrack.process(YoutubeAudioTrack.java:49) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.execute(LocalAudioTrackExecutor.java:91) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$executeTrack$1(DefaultAudioPlayerManager.java:349) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
-	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
-Caused by: java.lang.InterruptedException: null
-	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2056) ~[na:na]
-	at java.base/java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.await(AbstractQueuedSynchronizer.java:2090) ~[na:na]
-	at java.base/java.util.concurrent.ArrayBlockingQueue.put(ArrayBlockingQueue.java:367) ~[na:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.AllocatingAudioFrameBuffer.consume(AllocatingAudioFrameBuffer.java:179) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.passThrough(OpusPacketRouter.java:169) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.common.OpusPacketRouter.process(OpusPacketRouter.java:99) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaOpusTrackConsumer.consume(MatroskaOpusTrackConsumer.java:47) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.processFrameInBlock(MatroskaStreamingFile.java:372) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseClusterSimpleBlock(MatroskaStreamingFile.java:336) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.parseNextCluster(MatroskaStreamingFile.java:321) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaStreamingFile.provideFrames(MatroskaStreamingFile.java:297) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.container.matroska.MatroskaAudioTrack.lambda$process$0(MatroskaAudioTrack.java:40) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.track.playback.LocalAudioTrackExecutor.executeProcessingLoop(LocalAudioTrackExecutor.java:262) ~[lavaplayer-1.3.32.jar!/:na]
-	... 10 common frames omitted
-
-2020-03-04 08:51:30.757  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:54327 -- CloseStatus[code=1006, reason=]
-2020-03-04 08:51:30.758  INFO 12448 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
-2020-03-04 08:51:30.758  INFO 12448 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
-2020-03-04 08:51:56.793  INFO 12448 --- [XNIO-1 task-15] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59216
-2020-03-04 08:51:56.815  INFO 12448 --- [XNIO-1 task-15] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:51:56.820  INFO 12448 --- [XNIO-1 task-15] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59216
-2020-03-04 08:53:35.132  INFO 12448 --- [XNIO-1 task-16] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59256
-2020-03-04 08:53:35.136  INFO 12448 --- [XNIO-1 task-16] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:53:35.143  INFO 12448 --- [XNIO-1 task-16] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59256
-2020-03-04 08:54:35.380  INFO 12448 --- [XNIO-1 task-17] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:59294
-2020-03-04 08:54:35.384  INFO 12448 --- [XNIO-1 task-17] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
-2020-03-04 08:54:35.390  INFO 12448 --- [XNIO-1 task-17] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:59294
-2020-03-04 08:55:46.932  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:55:47.140 ERROR 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Load failed
-
-com.sedmelluq.discord.lavaplayer.tools.FriendlyException: The playlist does not exist.
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubePlaylistLoader.buildPlaylist(DefaultYoutubePlaylistLoader.java:56) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubePlaylistLoader.load(DefaultYoutubePlaylistLoader.java:42) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager$LoadingRoutes.playlist(YoutubeAudioSourceManager.java:240) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager$LoadingRoutes.playlist(YoutubeAudioSourceManager.java:228) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeLinkRouter.routeFromMainDomain(DefaultYoutubeLinkRouter.java:67) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.DefaultYoutubeLinkRouter.route(DefaultYoutubeLinkRouter.java:39) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager.loadItemOnce(YoutubeAudioSourceManager.java:196) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.source.youtube.YoutubeAudioSourceManager.loadItem(YoutubeAudioSourceManager.java:133) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItemOnce(DefaultAudioPlayerManager.java:437) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.checkSourcesForItem(DefaultAudioPlayerManager.java:419) ~[lavaplayer-1.3.32.jar!/:na]
-	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$createItemLoader$0(DefaultAudioPlayerManager.java:218) ~[lavaplayer-1.3.32.jar!/:na]
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[na:na]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[na:na]
-	at java.base/java.lang.Thread.run(Thread.java:834) ~[na:na]
-
-2020-03-04 08:55:47.565  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"368a073ee42b116aa89b7149ebdd5273","event":{"token":"d39114cca4cf96e9","guildid":"681627466128818272","endpoint":"singapore386.discord.media:80"},"guildId":"681627466128818272","op":"voiceUpdate"}
-2020-03-04 08:56:06.891  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:07.397  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ???? ?????????????
-2020-03-04 08:56:07.418  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAjwIAKjI4IOODleOCoeOCpOOCouOCpuOCqeODvOODq+ODu+ODieODqeOCtOODswALQWNlIENyaWZ1ZGUAAAAAAAMJWAALZjJvdTM4Vmh2SjgAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1mMm91MzhWaHZKOAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 08:56:13.452  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"volume":20,"guildId":"681627466128818272","op":"volume"}
-2020-03-04 08:56:13.489  INFO 12448 --- [lava-daemon-pool-playback-69-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library libmpg123-0: loading with filter com.sedmelluq.discord.lavaplayer.natives.ConnectorNativeLibLoader$$Lambda$683/0x0000000021df0c40@262c9d52
-2020-03-04 08:56:13.572  INFO 12448 --- [lava-daemon-pool-playback-69-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library libmpg123-0: successfully loaded.
-2020-03-04 08:56:13.572  INFO 12448 --- [lava-daemon-pool-playback-69-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library connector: loading with filter null
-2020-03-04 08:56:13.602  INFO 12448 --- [lava-daemon-pool-playback-69-thread-1] c.s.l.c.natives.NativeLibraryLoader      : Native library connector: successfully loaded.
-2020-03-04 08:56:23.325  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"volume":5,"guildId":"681627466128818272","op":"volume"}
-2020-03-04 08:56:47.672  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:48.201  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Seeker of the Serpent's Eye Jóhann Jóhannsson
-2020-03-04 08:56:48.206  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:48.681  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Starling Jóhann Jóhannsson
-2020-03-04 08:56:48.685  INFO 12448 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:49.215  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Mandy Love Theme Jóhann Jóhannsson
-2020-03-04 08:56:49.219  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:49.679  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Horns of Abraxas Jóhann Jóhannsson
-2020-03-04 08:56:49.683  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:50.171  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Black Skulls Jóhann Jóhannsson
-2020-03-04 08:56:50.743  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:51.257  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Death and Ashes Jóhann Jóhannsson
-2020-03-04 08:56:51.260  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:51.670  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Sand Jóhann Jóhannsson
-2020-03-04 08:56:51.673  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:52.069  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Red Jóhann Jóhannsson
-2020-03-04 08:56:52.074  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:52.636  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Forging the Beast Jóhann Jóhannsson
-2020-03-04 08:56:52.642  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:53.062  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Dive-Bomb Blues Jóhann Jóhannsson
-2020-03-04 08:56:53.700  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:54.182  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Waste Jóhann Jóhannsson
-2020-03-04 08:56:54.185  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:54.641  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Temple Jóhann Jóhannsson
-2020-03-04 08:56:54.646  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:55.159  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Burning Church Jóhann Jóhannsson
-2020-03-04 08:56:55.162  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:55.579  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Memories Jóhann Jóhannsson
-2020-03-04 08:56:55.582  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:56:56.088  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Children of the New Dawn Jóhann Jóhannsson
-2020-03-04 08:57:33.538  INFO 12448 --- [XNIO-1 task-20] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 08:57:34.049  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: passionate duelist
-2020-03-04 08:58:55.981  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"volume":1,"guildId":"681627466128818272","op":"volume"}
-2020-03-04 08:59:14.558  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"volume":1000,"guildId":"681627466128818272","op":"volume"}
-2020-03-04 08:59:25.853  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAiAIAG1NlZWtlciBvZiB0aGUgU2VycGVudCdzIEV5ZQATSsOzaGFubiBKw7NoYW5uc3NvbgAAAAAAAgOgAAtJcldrYmdteV93ZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUlyV2tiZ215X3dnAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 08:59:29.128  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"volume":100,"guildId":"681627466128818272","op":"volume"}
-2020-03-04 09:01:37.516  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAdQIACFN0YXJsaW5nABNKw7NoYW5uIErDs2hhbm5zc29uAAAAAAACE0AAC2FIdVV6eFBic0NnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9YUh1VXp4UGJzQ2cAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:03:52.592  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfQIAEE1hbmR5IExvdmUgVGhlbWUAE0rDs2hhbm4gSsOzaGFubnNzb24AAAAAAARB2AALNzJ5ZTFJTXl3clEAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj03MnllMUlNeXdyUQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:06:37.060  INFO 12448 --- [XNIO-1 task-22] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:06:37.090  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] c.s.d.l.s.s.SoundCloudClientIdTracker    : Updating SoundCloud client ID (current is null).
-2020-03-04 09:06:37.642  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] c.s.d.l.s.s.SoundCloudClientIdTracker    : Updating SoundCloud client ID succeeded, new ID is ma3yz1wAWCyUOJ45CO2WP4tdI32QcXPO.
-2020-03-04 09:06:38.146  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: zedd-alessia-cara-stay-uplink-magnus-remix-free-download
-2020-03-04 09:06:38.172  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAABRgIAQ1plZGQgJiBBbGVzc2lhIENhcmEgLSBTdGF5IChVUExJTksgJiBNQUdOw5xTIFJlbWl4KSBbRnJlZSBEb3dubG9hZF0ADkltbWluZW50IFJlbWl4AAAAAAACvUoAcU86aHR0cHM6Ly9hcGktdjIuc291bmRjbG91ZC5jb20vbWVkaWEvc291bmRjbG91ZDp0cmFja3M6MzEyMTYxODkxLzlmMmMwZmQzLWZhZGEtNDkyOC04MjBlLWRkZTdhNzhhMWE2My9zdHJlYW0vaGxzAAEAXWh0dHBzOi8vc291bmRjbG91ZC5jb20vaW1taW5lbnRyZW1peC96ZWRkLWFsZXNzaWEtY2FyYS1zdGF5LXVwbGluay1tYWdudXMtcmVtaXgtZnJlZS1kb3dubG9hZAAKc291bmRjbG91ZAAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:06:38.177  INFO 12448 --- [lava-daemon-pool-playback-73-thread-1] c.s.d.l.s.s.SoundCloudClientIdTracker    : Updating SoundCloud client ID (current is null).
-2020-03-04 09:06:38.903  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"sessionId":"7a98e040f81df5e67dd6ef75838183b9","event":{"token":"7a36388aedac8856","guildid":"576298549524955166","endpoint":"singapore541.discord.media:80"},"guildId":"576298549524955166","op":"voiceUpdate"}
-2020-03-04 09:06:39.098  INFO 12448 --- [lava-daemon-pool-playback-73-thread-1] c.s.d.l.s.s.SoundCloudClientIdTracker    : Updating SoundCloud client ID succeeded, new ID is ma3yz1wAWCyUOJ45CO2WP4tdI32QcXPO.
-2020-03-04 09:08:07.939  INFO 12448 --- [XNIO-1 task-24] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:08:08.299  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: come-first-riback-remix
-2020-03-04 09:08:31.231  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfQIAEEhvcm5zIG9mIEFicmF4YXMAE0rDs2hhbm4gSsOzaGFubnNzb24AAAAAAAFnYAALaEdpaC1tYTVuQWcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1oR2loLW1hNW5BZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:09:38.680  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAA9gIAHkNvbWUgRmlyc3QgKFJ5YW4gUmliYWNrIFJlbWl4KQAJVGVycm9yIEpyAAAAAAAC+3AAcU86aHR0cHM6Ly9hcGktdjIuc291bmRjbG91ZC5jb20vbWVkaWEvc291bmRjbG91ZDp0cmFja3M6MzA3MTExNjc4LzJmOGRkZjc3LTJhY2MtNGM2NC1iN2UzLWQwNDBlZWY3MmIzZC9zdHJlYW0vaGxzAAEAN2h0dHBzOi8vc291bmRjbG91ZC5jb20vdGVycm9yanIvY29tZS1maXJzdC1yaWJhY2stcmVtaXgACnNvdW5kY2xvdWQAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:09:49.711  INFO 12448 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:09:50.075  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: https://soundcloud.com/gprir70bc5zr/troye-sivan-my-my-my
-2020-03-04 09:10:02.453  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAeQIADEJsYWNrIFNrdWxscwATSsOzaGFubiBKw7NoYW5uc3NvbgAAAAAAAohwAAtCNWxyLUx6X1JIVQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUI1bHItTHpfUkhVAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:10:33.720  INFO 12448 --- [XNIO-1 task-28] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:10:34.089 ERROR 12448 --- [lava-daemon-pool-info-loader-2-thread-1] c.s.d.l.p.DefaultAudioPlayerManager      : Error in loading item scsearch:the-chainsmokers-dont-let-me-down-illenium-remix
+2020-03-07 03:06:21.591  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 03:07:01.045  INFO 5916 --- [XNIO-1 task-21] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:07:01.651  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: rythm of the night corona
+2020-03-07 03:07:01.655  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhQIAHENvcm9uYSAtIFJoeXRobSBvZiB0aGUgTmlnaHQAD2hvdXNlRW50aHVzaWFzdAAAAAAAA36IAAt1M2x0Wm1JNUxRdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXUzbHRabUk1TFF3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:07:02.013  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"837d747822bbc6a9","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 03:07:08.582  INFO 5916 --- [XNIO-1 task-23] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:07:09.145  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: mike posner cooler than me
+2020-03-07 03:07:17.947  INFO 5916 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:07:18.524  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: n-joy anthem
+2020-03-07 03:07:28.619  INFO 5916 --- [XNIO-1 task-27] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:07:29.046  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: meet me halfway
+2020-03-07 03:07:32.808  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"volume":20,"guildId":"673512696288903199","op":"volume"}
+2020-03-07 03:08:06.104  INFO 5916 --- [XNIO-1 task-29] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:08:06.624  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: m83 midnight city
+2020-03-07 03:10:50.500  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAmAIAM01pa2UgUG9zbmVyIC0gQ29vbGVyIFRoYW4gTWUgKE9mZmljaWFsIE11c2ljIFZpZGVvKQALTWlrZSBQb3NuZXIAAAAAAAQ2IAALbXFXcV80OEx4V1EAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1tcVdxXzQ4THhXUQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:15:25.923  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfgIAH04tSm9pIC0gQW50aGVtIChPZmZpY2lhbCBWaWRlbykABU4tSk9JAAAAAAADrWgAC21EVVJDaFE3dzU0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9bURVUkNoUTd3NTQAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:19:26.062  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAApQIAPFRoZSBCbGFjayBFeWVkIFBlYXMgLSBNZWV0IE1lIEhhbGZ3YXkgKE9mZmljaWFsIE11c2ljIFZpZGVvKQAPQmxhY2sgRXllZCBQZWFzAAAAAAAEbNAAC0k3SGFoVndZcHdvAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9STdIYWhWd1lwd28AB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:24:15.430  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfwIAIk04MyAnTWlkbmlnaHQgQ2l0eScgT2ZmaWNpYWwgdmlkZW8AA004MwAAAAAAA7kgAAtkWDNrX1FEbnpIRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWRYM2tfUURuekhFAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:28:18.689  INFO 5916 --- [XNIO-1 task-31] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:28:19.313  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 'Midnight City' Official video
+2020-03-07 03:28:19.319  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAkAIALU04My0gTWlkbmlnaHQgQ2l0eSAoSHVycnkgVXAsIFdlJ3JlIERyZWFtaW5nKQAJMzMybXlhbGV4AAAAAAADvQgAC1k4X2J6NFo0MWNjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9WThfYno0WjQxY2MAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:32:23.487  INFO 5916 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:32:24.061  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83- Midnight City (Hurry Up, We're Dreaming)
+2020-03-07 03:32:24.067  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfwIAIk04MyAnTWlkbmlnaHQgQ2l0eScgT2ZmaWNpYWwgdmlkZW8AA004MwAAAAAAA7kgAAtkWDNrX1FEbnpIRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWRYM2tfUURuekhFAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:36:27.179  INFO 5916 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:36:27.701  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 'Midnight City' Official video
+2020-03-07 03:36:27.708  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAmAIAL004MyAtIE1pZG5pZ2h0IENpdHkgTGl2ZSBAIFN6aWdldCBGZXN0aXZhbCAyMDE2AA9TemlnZXQgRmVzdGl2YWwAAAAAAAP3oAALRXJyS1JUM1ZqS2sAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1FcnJLUlQzVmpLawAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:40:47.378  INFO 5916 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:40:47.933  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Midnight City Live @ Sziget Festival 2016
+2020-03-07 03:40:47.974  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAH004MyAtIFVuIE5vdXZlYXUgU29sZWlsIChhdWRpbykAA004MwAAAAAABiogAAszNm1sWDMxOFEzdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM2bWxYMzE4UTN3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:47:31.572  INFO 5916 --- [XNIO-1 task-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:47:32.227  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Un Nouveau Soleil (audio)
+2020-03-07 03:47:32.232  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAH004MyAtIFVuIE5vdXZlYXUgU29sZWlsIChhdWRpbykAA004MwAAAAAABiogAAszNm1sWDMxOFEzdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM2bWxYMzE4UTN3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:54:15.765  INFO 5916 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:54:16.283  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Un Nouveau Soleil (audio)
+2020-03-07 03:54:16.286  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAeAIAD004MyAtIFN0YXJ3YXZlcwAPUmljaGFyZCBTYWxpbmFzAAAAAAADX0gACzFxU0Q3ZUVLOW9nAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MXFTRDdlRUs5b2cAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 03:57:56.776  INFO 5916 --- [XNIO-1 task-11] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 03:57:57.227  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Starwaves
+2020-03-07 03:57:57.263  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAH004MyAtIFVuIE5vdXZlYXUgU29sZWlsIChhdWRpbykAA004MwAAAAAABiogAAszNm1sWDMxOFEzdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM2bWxYMzE4UTN3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:04:40.641  INFO 5916 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:04:41.188  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Un Nouveau Soleil (audio)
+2020-03-07 04:04:41.198  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAH004MyAtIFVuIE5vdXZlYXUgU29sZWlsIChhdWRpbykAA004MwAAAAAABiogAAszNm1sWDMxOFEzdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM2bWxYMzE4UTN3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:11:24.707  INFO 5916 --- [XNIO-1 task-15] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:11:25.163  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Un Nouveau Soleil (audio)
+2020-03-07 04:11:25.170  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfgIAGk04MyAtIFN0YXJ3YXZlcyAoRXh0ZW5kZWQpAApsYWNyaW1vc2FlAAAAAAAMSIgAC3VEeDhnRkpuWUxjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dUR4OGdGSm5ZTGMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:24:49.906  INFO 5916 --- [XNIO-1 task-17] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:24:50.366  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Starwaves (Extended)
+2020-03-07 04:24:50.375  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlAIAME04MyBQZXJmb3JtcyBPYmxpdmlvbiBGZWF0dXJpbmcgU3VzYW5uZSBTdW5kZsO4cgAKRGF2aWVlZWU4NwAAAAAAA8TYAAswNUdQaUtQeWxIWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTA1R1BpS1B5bEhZAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:28:57.036  INFO 5916 --- [XNIO-1 task-19] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:28:57.531  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 Performs Oblivion Featuring Susanne Sundfør
+2020-03-07 04:28:57.538  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfQIAF004MyBPYmxpdmlvbiBEcnVtIENvdmVyAAxEYXZpZCBDaGV2YWwAAAAAAARJqAALWWZLY0I1SmhtVTAAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZZktjQjVKaG1VMAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:33:38.476  INFO 5916 --- [XNIO-1 task-21] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:33:38.948  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
+2020-03-07 04:33:38.952  INFO 5916 --- [XNIO-1 task-23] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:33:39.453  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: David Cheval
+2020-03-07 04:33:39.461  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhwIAIVBsYWNlYm8gTG91ZCBsaWtlIGxvdmUgRHJ1bSBDb3ZlcgAMRGF2aWQgQ2hldmFsAAAAAAAEcLgAC3N1SWFyOUhQY3hjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9c3VJYXI5SFBjeGMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:38:29.755  INFO 5916 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:38:30.260  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo Loud like love Drum Cover
+2020-03-07 04:38:30.265  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAkgIAL1BsYWNlYm8gTGl2ZSBAIENhbmFsKyAtTG91ZCBMaWtlIExvdmUgLSAyMDEzIEhEAAlNYW5keWFzeHgAAAAAAAT9WAALWk9sNHlaelBXYnMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1aT2w0eVp6UFdicwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:43:57.120  INFO 5916 --- [XNIO-1 task-27] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:43:57.640  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo Live @ Canal+ -Loud Like Love - 2013 HD
+2020-03-07 04:43:57.647  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhAIAJFBsYWNlYm8gLSBUd2VudHkgWWVhcnMgKExpdmUgOCAyMDA1KQAGTGl2ZSA4AAAAAAAFO9gAC0loR0ZXTzl2cjhzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SWhHRldPOXZyOHMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:49:40.234  INFO 5916 --- [XNIO-1 task-29] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:49:40.809  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo - Twenty Years (Live 8 2005)
+2020-03-07 04:49:40.814  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAjQIAJ1BsYWNlYm8gLSBUd2VudHkgWWVhcnMgW0NhbmFsKyAyMDEzXSBIRAAMU3Vja2VyTG92ZUhEAAAAAAAEWUgAC1JSUUhXb3VKUDFRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9UlJRSFdvdUpQMVEAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:54:24.712  INFO 5916 --- [XNIO-1 task-31] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:54:25.251  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo - Twenty Years [Canal+ 2013] HD
+2020-03-07 04:54:25.254  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAjwIAKVBsYWNlYm8gLSBUd2VudHkgWWVhcnMgW1BhcmlzLUJlcmN5IDIwMTNdAAxTdWNrZXJMb3ZlSEQAAAAAAAQHQAALSlUzV1p5WDZ1MTAAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1KVTNXWnlYNnUxMAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 04:58:49.003  INFO 5916 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 04:58:49.471  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo - Twenty Years [Paris-Bercy 2013]
+2020-03-07 04:58:49.477  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAjwIAJ1BsYWNlYm8gTGl2ZSBpbiBQYXJpcyAyMDAzIGZ1bGwgY29uY2VydAAOcm9ja2NoYW5uZWwwMDcAAAAAAFjxiAALa1Fac0FldEM4YmMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1rUVpzQWV0QzhiYwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 06:35:58.473  INFO 5916 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 06:35:59.001  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo Live in Paris 2003 full concert
+2020-03-07 06:35:59.008  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiQIAJ1BsYWNlYm8gTGl2ZSBHZXJtYW55IDEwLTgtMjAxMiBGdWxsIEdpZwAITWFuZHlhc3gAAAAAAE552AALQkt4VU5KUGl0YWMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1CS3hVTkpQaXRhYwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 08:01:41.663  INFO 5916 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 08:01:42.202  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: Placebo Live Germany 10-8-2012 Full Gig
+2020-03-07 08:01:42.209  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAqwIASVBsYWNlYm8gTGl2ZSBDb2tlIExpdmUgTXVzaWMgRmVzdGl2YWwsIEtyYWtvdywgUG9sYW5kIDEyLjA4LjIwMTIgRlVMTCBHSUcACE1hbmR5YXN4AAAAAABVSAgAC2d0eDVhOTVLQU9zAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3R4NWE5NUtBT3MAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:07:54.049  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
+2020-03-07 09:07:54.940  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:08:20.201  INFO 5916 --- [XNIO-1 task-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:08:20.849  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: strong sona kurt
+2020-03-07 09:08:20.854  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAnQIAMFN0cm9uZyAtIFNvbm5hIFJlbGUgLSBDaW5kZXJlbGxhIChQaWFubyBWZXJzaW9uKQATS3VydCBIdWdvIFNjaG5laWRlcgAAAAAAA19IAAtxWV9Jc2NHbjluYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXFZX0lzY0duOW5jAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:08:21.162  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"913ab065bfd33c41","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:12:02.512  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:12:41.115  INFO 5916 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:12:41.818  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: nevernding stray kids
+2020-03-07 09:12:41.849  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAwwIAYlvsh7zsnYzslYXspJHsi6xdIFN0cmF5IEtpZHMgLSDrgZ3rgpjsp4Ag7JWK7J2EIOydtOyVvOq4sChTdHJheSBLaWRzIC0gTmV2ZXJlbmRpbmcgU3RvcnkpIDIwMTkxMjIxAAdNQkNrcG9wAAAAAAADuSAACzBEay0yN0I1VXpnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MERrLTI3QjVVemcAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:12:42.202  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"fb1b36e4caae226e","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:12:51.615  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
+2020-03-07 09:12:51.981  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:13:02.172  INFO 5916 --- [XNIO-1 task-11] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:13:02.627  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: neverending story stray
+2020-03-07 09:13:02.630  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAwwIAYlvsh7zsnYzslYXspJHsi6xdIFN0cmF5IEtpZHMgLSDrgZ3rgpjsp4Ag7JWK7J2EIOydtOyVvOq4sChTdHJheSBLaWRzIC0gTmV2ZXJlbmRpbmcgU3RvcnkpIDIwMTkxMjIxAAdNQkNrcG9wAAAAAAADuSAACzBEay0yN0I1VXpnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MERrLTI3QjVVemcAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:13:02.984  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"c5f426539a131300","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:13:10.592  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"stop"}
+2020-03-07 09:13:10.908  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:13:23.386  INFO 5916 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:13:23.921  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: kiana i choose u acoustic
+2020-03-07 09:13:23.924  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAkwIALktpYW5hIExlZMOpIC0gSSBDaG9vc2UgWW91IChPZmZpY2lhbCBBY291c3RpYykAC0tpYW5hIExlZMOpAAAAAAACYWAAC3Z5R20xTlNTQkM0AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dnlHbTFOU1NCQzQAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:13:24.243  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"9ef5fe2e90a89669","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:16:00.342  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:19:42.458  INFO 5916 --- [XNIO-1 task-15] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:19:43.036  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: heavy kiana jennifer
+2020-03-07 09:19:43.042  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAArgIASUtpYW5hIExlZMOpIC0gSGVhdnkgZnQuIEplbm5pZmVyIExld2lzIChPZmZpY2lhbCBWaWRlbykgZnQuIEplbmlmZXIgTGV3aXMAC0tpYW5hIExlZMOpAAAAAAADR9gAC0NrTEEwcDRCVFRzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Q2tMQTBwNEJUVHMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:19:43.350  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"6d0b2cdd5c628c27","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:23:18.366  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:24:06.838  INFO 5916 --- [XNIO-1 task-17] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:24:07.488  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: september song acoustic
+2020-03-07 09:24:07.493  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiAIAJUpQIENvb3BlciAtIFNlcHRlbWJlciBTb25nIChBY291c3RpYykACUpQIENvb3BlcgAAAAAAAzBoAAs1MkJxUFVrM1ZVcwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTUyQnFQVWszVlVzAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:24:07.801  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"8dd27529c6aca800","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:27:36.278  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:34:35.922  INFO 5916 --- [XNIO-1 task-19] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:34:36.515  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: dancing next to me greyson
+2020-03-07 09:34:36.521  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAnAIANEdyZXlzb24gQ2hhbmNlIC0gRGFuY2luZyBOZXh0IFRvIE1lIChPZmZpY2lhbCBWaWRlbykADkdyZXlzb24gQ2hhbmNlAAAAAAACo8gAC0xtSUhLQjZPRkhRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TG1JSEtCNk9GSFEAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:34:36.899  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"2465b58c4d3063f1","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:37:29.698  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:51:55.079  INFO 5916 --- [XNIO-1 task-21] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:51:55.695  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: in the silence mahogany
+2020-03-07 09:51:55.704  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAjwIALUpQIENvb3BlciAtIEluIFRoZSBTaWxlbmNlIHwgTWFob2dhbnkgU2Vzc2lvbgAITWFob2dhbnkAAAAAAAOZ4AALVDUyU2Rfb1hwb0EAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1UNTJTZF9vWHBvQQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:51:56.001  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"71794e9951e9794a","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:55:51.770  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 09:55:58.386  INFO 5916 --- [XNIO-1 task-23] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:55:58.916  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Starwaves
+2020-03-07 09:55:58.921  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAeAIAD004MyAtIFN0YXJ3YXZlcwAPUmljaGFyZCBTYWxpbmFzAAAAAAADX0gACzFxU0Q3ZUVLOW9nAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MXFTRDdlRUs5b2cAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 09:55:59.240  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"1a8a9d4bea36977e","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 09:56:28.044  INFO 5916 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 09:56:28.616  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: M83 - Un Nouveau Soleil (audio)
+2020-03-07 09:59:39.584  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAH004MyAtIFVuIE5vdXZlYXUgU29sZWlsIChhdWRpbykAA004MwAAAAAABiogAAszNm1sWDMxOFEzdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTM2bWxYMzE4UTN3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 10:04:17.268  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 10:04:24.867  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 10:06:38.899  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 10:36:17.297  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 10:36:24.937  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 10:40:16.461  INFO 5916 --- [XNIO-1 task-27] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 10:40:17.098  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: waiting for you unlike pluto
+2020-03-07 10:40:17.102  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAxAIAV1tFbGVjdHJvbmljXSAtIFVubGlrZSBQbHV0byAtIFdhaXRpbmcgRm9yIFlvdSAoZmVhdC4gSm9hbm5hIEpvbmVzKSBbTW9uc3RlcmNhdCBSZWxlYXNlXQATTW9uc3RlcmNhdDogVW5jYWdlZAAAAAAAA2sAAAszdmFjanVXNDYwYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTN2YWNqdVc0NjBjAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 10:40:17.442  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"a071b4bf7c514b49","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 10:44:00.844  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 11:14:28.678  INFO 5916 --- [XNIO-1 task-29] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:14:29.348  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: 2002
+2020-03-07 11:14:29.354  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhgIAIkFubmUtTWFyaWUgLSAyMDAyIFtPZmZpY2lhbCBWaWRlb10ACkFubmUtTWFyaWUAAAAAAAL5uAALSWwtYW4zSzlwamcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1JbC1hbjNLOXBqZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:14:29.673  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"4ca2f36bba57466a","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 11:17:44.309  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 11:19:43.416  INFO 5916 --- [XNIO-1 task-31] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:19:44.054  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: keshi right here
+2020-03-07 11:19:44.060  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAfwIAIGtlc2hpIC0gcmlnaHQgaGVyZSAoTHlyaWMgVmlkZW8pAAVrZXNoaQAAAAAAAwGIAAtSaXZFc2F2RDZaRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVJpdkVzYXZENlpFAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:19:44.380  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"6ef390102a0323c9","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 11:23:00.999  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 11:26:09.884  INFO 5916 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:26:10.509  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: slut like pink
+2020-03-07 11:26:10.518  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAsgIAVFAhbmsgLSBTbHV0IExpa2UgWW91IChUaGUgVHJ1dGggQWJvdXQgTG92ZSAtIExpdmUgRnJvbSBMb3MgQW5nZWxlcykgKE9mZmljaWFsIFZpZGVvKQAEUCFOSwAAAAAABFF4AAtDVEpqbERFb2RWbwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUNUSmpsREVvZFZvAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:26:10.811  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"a4fe46037e3543a6","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 11:26:31.116  INFO 5916 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:26:31.678  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: slut like u pink
+2020-03-07 11:26:40.182  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiQIAK1AhbmsgLSBTbHV0IExpa2UgWW91IChPZmZpY2lhbCBMeXJpYyBWaWRlbykABFAhTksAAAAAAANfSAALSGpVMHhBWmJaa0EAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1IalUweEFaYlprQQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:28:40.282  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"pause":true,"guildId":"673512696288903199","op":"pause"}
+2020-03-07 11:29:08.285  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"pause":false,"guildId":"673512696288903199","op":"pause"}
+2020-03-07 11:29:36.668  INFO 5916 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:29:37.616  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: my oh my
+2020-03-07 11:30:05.289  INFO 5916 --- [XNIO-1 task-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:30:05.932  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: my oh my camila
+2020-03-07 11:30:07.993  INFO 5916 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:30:08.613  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: ransom lil tecca
+2020-03-07 11:30:36.263  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"volume":20,"guildId":"673512696288903199","op":"volume"}
+2020-03-07 11:30:48.787  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAowIAO0NhbWlsYSBDYWJlbGxvIC0gTXkgT2ggTXkgKE9mZmljaWFsIE11c2ljIFZpZGVvKSBmdC4gRGFCYWJ5AA5DYW1pbGEgQ2FiZWxsbwAAAAAAAs7AAAs2ZmQya2tMbVNEUQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTZmZDJra0xtU0RRAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:30:59.664  INFO 5916 --- [XNIO-1 task-11] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 11:31:00.361  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: roxanne
+2020-03-07 11:33:52.401  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlQIAK0xpbCBUZWNjYSAtIFJhbnNvbSAoRGlyLiBieSBAX0NvbGVCZW5uZXR0XykAEEx5cmljYWwgTGVtb25hZGUAAAAAAAJCIAALMVh6WTJpal92TDQAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0xWHpZMmlqX3ZMNAAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:34:02.660  WARN 5916 --- [japp-50] lavalink.server.player.EventEmitter      : Lil Tecca - Ransom (Dir. by @_ColeBennett_) got stuck! Threshold surpassed: 10000
+2020-03-07 11:36:32.491  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiwIAKkFyaXpvbmEgWmVydmFzIC0gUk9YQU5ORSAoTHlyaWNzKSBSb2Nrc2FuZAAHN2Nsb3VkcwAAAAAAAnjQAAttbnk1REtwRWJVRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PW1ueTVES3BFYlVFAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 11:36:42.497  WARN 5916 --- [japp-51] lavalink.server.player.EventEmitter      : Arizona Zervas - ROXANNE (Lyrics) Rocksand got stuck! Threshold surpassed: 10000
+2020-03-07 11:39:30.307  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 11:39:30.335  INFO 5916 --- [parallel-2] s.n.m.impl.connections.AudioWebSocket    : Websocket to wss://singapore457.discord.media/?v=4 closed with code 1000 and reason 
+2020-03-07 11:39:30.335  INFO 5916 --- [parallel-2] s.n.m.impl.connections.AudioWebSocket    : Resuming
+2020-03-07 12:17:19.778  INFO 5916 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:17:20.432  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: holy grail
+2020-03-07 12:17:20.441  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAngIAOUpheSBaIGZlYXQuIEp1c3RpbiBUaW1iZXJsYWtlLSBIb2x5IEdyYWlsIChGUkVFIERPV05MT0FEKQALRnJlZU11c2ljREwAAAAAAAU0CAALWXhHNW1ESXRrR1UAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZeEc1bURJdGtHVQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:17:20.757  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"7eb856c7e2fbeb97","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 12:23:01.202  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 12:24:34.962  INFO 5916 --- [XNIO-1 task-15] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:24:35.620  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: thunder
+2020-03-07 12:24:35.628  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAgQIAGUltYWdpbmUgRHJhZ29ucyAtIFRodW5kZXIADkltYWdpbmVEcmFnb25zAAAAAAADHOAAC2ZLb3B5NzR3ZXVzAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZktvcHk3NHdldXMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:24:36.026  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"3400b70ded7d27f7","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 12:28:00.420  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 12:28:56.103  INFO 5916 --- [XNIO-1 task-17] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:28:56.736  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
+2020-03-07 12:28:57.018  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"88677c4e36e64555","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 12:29:12.251  INFO 5916 --- [XNIO-1 task-19] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:29:12.897  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: wake me up avicii madilyn
+2020-03-07 12:29:12.900  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhAIAI1dha2UgTWUgVXAgQXZpY2lpIC8vIE1hZGlseW4gQmFpbGV5AAdNYWRpbHluAAAAAAADawAAC1NJUWRjU3g1UzFBAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9U0lRZGNTeDVTMUEAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:29:21.467  INFO 5916 --- [XNIO-1 task-21] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:29:22.038  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: sweet disposition
+2020-03-07 12:30:10.914  INFO 5916 --- [XNIO-1 task-23] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:30:11.492  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: only girl rihanna
+2020-03-07 12:32:56.187  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlgIAL1RlbXBlciBUcmFwIC0gU3dlZXQgRGlzcG9zaXRpb24gKERpcmVjdG9ycyBDdXQpAA1EYW5pZWwgRXNraWxzAAAAAAADhlgAC19iX1lWcmV4MHlJAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X2JfWVZyZXgweUkAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:36:46.928  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAgwIAIlJpaGFubmEgLSBPbmx5IEdpcmwgKEluIFRoZSBXb3JsZCkAB1JpaGFubmEAAAAAAAPYYAALcGExNFZOc2RTWU0AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1wYTE0Vk5zZFNZTQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:41:09.795  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 12:48:11.724  INFO 5916 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:48:13.480  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: youre my honey bunny
+2020-03-07 12:48:14.056  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiwIAIVlvdSdyZSBteSBIb25leWJ1bmNoLCBTdWdhcnBsdW0gIQAQU2FsYWggRWRkaW5lIE1mawAAAAAAAN6oAAsyT0xwbVBYNUxWWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTJPTHBtUFg1TFZZAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:48:14.467  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"d4cb8dd42dc48119","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 12:49:17.074  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 12:53:01.687  INFO 5916 --- [XNIO-1 task-27] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:53:02.245  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: if you were my baby
+2020-03-07 12:53:02.250  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhAIAIFJpY2sgUHJpY2UgLSBJZiBZb3UgV2VyZSBNeSBCYWJ5AApDaGFudGlramVuAAAAAAADyMAAC1JoNWdRRWJ6RzEwAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Umg1Z1FFYnpHMTAAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 12:53:02.678  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"e2f37565c0126df4","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 12:53:04.817  INFO 5916 --- [XNIO-1 task-29] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:53:05.568  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: paradise
+2020-03-07 12:53:12.890  INFO 5916 --- [XNIO-1 task-31] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:53:13.486  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: frame of mind
+2020-03-07 12:53:55.566  INFO 5916 --- [XNIO-1 task-1] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:53:56.131  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: IMAGINE - JOHN LENNON COVER by ( PACIFIED )
+2020-03-07 12:54:08.674  INFO 5916 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 12:54:09.232  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: PAYUNG TEDUH - UNTUK PEREMPUAN YANG SEDANG DALAM PELUKAN COVER by ( PACIFIED )
+2020-03-07 12:54:17.583  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 12:54:25.238  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 12:57:11.556  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAhgIAJENvbGRwbGF5IC0gUGFyYWRpc2UgKE9mZmljaWFsIFZpZGVvKQAIQ29sZHBsYXkAAAAAAAP7iAALMUc0aXN2X0Z5bGcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0xRzRpc3ZfRnlsZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:01:39.846  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlgIAK0lNQUdJTkUgLSBKT0hOIExFTk5PTiBDT1ZFUiBieSAoIFBBQ0lGSUVEICkAEVBBQ0lGSUVEIE9GRklDSUFMAAAAAAADctAAC1dCYTJ1b1BPYjRjAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9V0JhMnVvUE9iNGMAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:05:29.116  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAuQIATlBBWVVORyBURURVSCAtIFVOVFVLIFBFUkVNUFVBTiBZQU5HIFNFREFORyBEQUxBTSBQRUxVS0FOIENPVkVSIGJ5ICggUEFDSUZJRUQgKQARUEFDSUZJRUQgT0ZGSUNJQUwAAAAAAASAWAALQ0JGZm5XcE01VW8AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1DQkZmbldwTTVVbwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:09:36.845  INFO 5916 --- [XNIO-1 task-5] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 13:09:39.249  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: how deep is ur love bee gees
+2020-03-07 13:09:52.873  INFO 5916 --- [XNIO-1 task-7] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 13:09:53.430  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
+2020-03-07 13:10:06.716  INFO 5916 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 13:10:07.790  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: when i see u smile bad english
+2020-03-07 13:10:17.658  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 1] [Bucket 2000 = 0] 
+2020-03-07 13:10:25.280  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 1] [Bucket 2000 = 0] 
+2020-03-07 13:10:32.154  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiAIAJ0JlZSBHZWVzIC0gSG93IERlZXAgSXMgWW91ciBMb3ZlICgxOTc3KQAHYmVlZ2VlcwAAAAAAA6mAAAtYcHFxalU3dTVZYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVhwcXFqVTd1NVljAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:12:17.701  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 2] [Bucket 20 = 2] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 13:12:25.276  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 2] [Bucket 20 = 2] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 13:13:54.560  INFO 5916 --- [XNIO-1 task-11] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 13:13:55.169  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: uptown girl
+2020-03-07 13:14:14.881  INFO 5916 --- [XNIO-1 task-13] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 13:14:15.646  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: more than word
+2020-03-07 13:14:17.626  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 1] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 13:14:25.407  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 1] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 13:14:38.425  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAmwIAM0JhZCBFbmdsaXNoIC0gV2hlbiBJIFNlZSBZb3UgU21pbGUgKE9mZmljaWFsIFZpZGVvKQAOQmFkRW5nbGlzaFZFVk8AAAAAAAPzuAALY3U2cGNsV3N4enMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1jdTZwY2xXc3h6cwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:18:58.632  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAiQIAJ1dlc3RsaWZlIC0gVXB0b3duIEdpcmwgKE9mZmljaWFsIFZpZGVvKQAIV2VzdGxpZmUAAAAAAAPYYAALMEhUZXhxeG8xb2cAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0wSFRleHF4bzFvZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:23:13.897  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlQIAKkV4dHJlbWUgLSBNb3JlIFRoYW4gV29yZHMgKE9mZmljaWFsIFZpZGVvKQART2ZmaWNpYWxseUV4dHJlbWUAAAAAAAPr6AALVXJJaUx2ZzU4U1kAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1VcklpTHZnNThTWQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 13:27:38.289  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 14:13:45.847  INFO 5916 --- [XNIO-1 task-15] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:13:46.567  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: in the silence mahogany
+2020-03-07 14:13:46.635  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAjwIALUpQIENvb3BlciAtIEluIFRoZSBTaWxlbmNlIHwgTWFob2dhbnkgU2Vzc2lvbgAITWFob2dhbnkAAAAAAAOZ4AALVDUyU2Rfb1hwb0EAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1UNTJTZF9vWHBvQQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 14:13:46.926  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"f04216db22183bbb","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 14:17:43.504  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 14:18:38.772  INFO 5916 --- [XNIO-1 task-17] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:18:41.005 ERROR 5916 --- [lava-daemon-pool-info-loader-2-thread-1] c.s.d.l.p.DefaultAudioPlayerManager      : Error in loading item scsearch:down down down mummraofficial
 
 com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Something went wrong when looking up the track
 	at com.sedmelluq.discord.lavaplayer.tools.ExceptionTools.wrapUnfriendlyExceptions(ExceptionTools.java:43) ~[lavaplayer-1.3.32.jar!/:na]
@@ -617,7 +350,7 @@ Caused by: java.lang.RuntimeException: Did not detect any supported formats
 	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$createItemLoader$0(DefaultAudioPlayerManager.java:218) ~[lavaplayer-1.3.32.jar!/:na]
 	... 4 common frames omitted
 
-2020-03-04 09:10:34.091 ERROR 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Load failed
+2020-03-07 14:18:41.035 ERROR 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Load failed
 
 com.sedmelluq.discord.lavaplayer.tools.FriendlyException: Something went wrong when looking up the track
 	at com.sedmelluq.discord.lavaplayer.tools.ExceptionTools.wrapUnfriendlyExceptions(ExceptionTools.java:43) ~[lavaplayer-1.3.32.jar!/:na]
@@ -640,55 +373,88 @@ Caused by: java.lang.RuntimeException: Did not detect any supported formats
 	at com.sedmelluq.discord.lavaplayer.player.DefaultAudioPlayerManager.lambda$createItemLoader$0(DefaultAudioPlayerManager.java:218) ~[lavaplayer-1.3.32.jar!/:na]
 	... 4 common frames omitted
 
-2020-03-04 09:10:56.445  INFO 12448 --- [XNIO-1 task-30] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:10:56.799  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: mark-ronson-ft-bruno-mars-uptown-funk-the-noisy-freaks-ft-andrew-hunt-remix
-2020-03-04 09:11:18.665  INFO 12448 --- [XNIO-1 task-32] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:11:19.158  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: poolside-harvest-moon
-2020-03-04 09:11:34.615  INFO 12448 --- [XNIO-1 task-6] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:11:34.952  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: raging-ft-kodaline
-2020-03-04 09:11:54.477  INFO 12448 --- [XNIO-1 task-3] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:11:54.820  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: macklemore-ryan-lewis-white
-2020-03-04 09:12:13.513  INFO 12448 --- [XNIO-1 task-4] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:12:13.957  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: attention
-2020-03-04 09:12:48.185  INFO 12448 --- [XNIO-1 task-8] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:12:48.540  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: givemeyourlove
-2020-03-04 09:12:48.613  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAD0RlYXRoIGFuZCBBc2hlcwATSsOzaGFubiBKw7NoYW5uc3NvbgAAAAAABEHYAAtYUWlRWVFUM1Y0TQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVhRaVFZUVQzVjRNAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:12:54.020  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAF1Ryb3llIFNpdmFuIC0gTXkgTXkgTXkhAAtJbGthIE9uaXNpbQAAAAAAAyDIAAtLVlo0YzctdHpGcwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUtWWjRjNy10ekZzAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:13:00.845  INFO 12448 --- [XNIO-1 task-10] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:13:01.243  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: https://www.youtube.com/watch?v=hd0XraYQRR0
-2020-03-04 09:16:19.812  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAABagIAUU1hcmsgUm9uc29uIGZ0LiBCcnVubyBNYXJzIC0gVXB0b3duIEZ1bmsgKFRoZSBOb2lzeSBGcmVha3MgZnQuIEFuZHJldyBIdW50IFJlbWl4KQAQVGhlIE5vaXN5IEZyZWFrcwAAAAAAA30jAHFPOmh0dHBzOi8vYXBpLXYyLnNvdW5kY2xvdWQuY29tL21lZGlhL3NvdW5kY2xvdWQ6dHJhY2tzOjE5NTM3OTk5Ny9iMmVmNDFjZS03NDI3LTQ1ZTYtOGVjZi1iNTdmMDYyYmUzNzkvc3RyZWFtL2hscwABAHFodHRwczovL3NvdW5kY2xvdWQuY29tL3RoZW5vaXN5ZnJlYWtzL21hcmstcm9uc29uLWZ0LWJydW5vLW1hcnMtdXB0b3duLWZ1bmstdGhlLW5vaXN5LWZyZWFrcy1mdC1hbmRyZXctaHVudC1yZW1peAAKc291bmRjbG91ZAAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:17:27.519  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAcQIABFNhbmQAE0rDs2hhbm4gSsOzaGFubnNzb24AAAAAAAHgeAALZDRDS09IaVE1d00AAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1kNENLT0hpUTV3TQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:17:42.780  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAtAIASUZvcmdpbmcgVGhlIEJlYXN0IC0gSm9oYW5uIEpvaGFubnNzb24gLSBNYW5keSBTb3VuZHRyYWNrIChPZmZpY2lhbCBWaWRlbykAEUxha2VzaG9yZSBSZWNvcmRzAAAAAAABwTgAC0htdGN0LWFXWE1rAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SG10Y3QtYVdYTWsAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:17:43.212  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfAIAD0RpdmUtQm9tYiBCbHVlcwATSsOzaGFubiBKw7NoYW5uc3NvbgAAAAAAAhNAAAtwcW5YUEh0TnhCZwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXBxblhQSHROeEJnAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:17:43.759  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAcgIABVdhc3RlABNKw7NoYW5uIErDs2hhbm5zc29uAAAAAAACr4AAC19NalRkTW1hb1RBAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X01qVGRNbWFvVEEAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:17:44.722  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAcwIABlRlbXBsZQATSsOzaGFubiBKw7NoYW5uc3NvbgAAAAAAAr8gAAtGcDlQRzJJT21qWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUZwOVBHMklPbWpZAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:17:49.871  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAewIADkJ1cm5pbmcgQ2h1cmNoABNKw7NoYW5uIErDs2hhbm5zc29uAAAAAAABftAACzg5a1lQeVRoU0ZFAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ODlrWVB5VGhTRkUAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:17:50.201  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAdQIACE1lbW9yaWVzABNKw7NoYW5uIErDs2hhbm5zc29uAAAAAAACXXgAC05HcGZ2UUo1UXhRAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TkdwZnZRSjVReFEAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:18:26.929  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAuwIAUENoaWxkcmVuIE9mIFRoZSBOZXcgRGF3biAtIEpvaGFubiBKb2hhbm5zc29uIC0gTWFuZHkgU291bmR0cmFjayAoT2ZmaWNpYWwgVmlkZW8pABFMYWtlc2hvcmUgUmVjb3JkcwAAAAAABRDgAAtzNkFScnRuTWt6TQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXM2QVJydG5Na3pNAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:18:28.718  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAmgIANFtIRF0gUGFzc2lvbmF0ZSBEdWVsaXN0IFRoZW1lIC0gWXUtR2ktT2ghIFtFeHRlbmRlZF0ADFRvaSBOb3BoYWRvbAAAAAAABIgoAAtiN3Q2clpVWm1mRQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWI3dDZyWlVabWZFAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:18:51.542  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAA4AIADEhhcnZlc3QgTW9vbgAIUG9vbHNpZGUAAAAAAAWhdwBwTzpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoyMDcyOTc4Ni9iNDc0ZTk1MC05YTNkLTQ3OTYtYWZmYS05MmY1YzUxM2JjNDYvc3RyZWFtL2hscwABADVodHRwczovL3NvdW5kY2xvdWQuY29tL3Bvb2xzaWRlL3Bvb2xzaWRlLWhhcnZlc3QtbW9vbgAKc291bmRjbG91ZAAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:20:53.024  INFO 12448 --- [XNIO-1 task-12] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:20:56.667  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist All Uploads
-2020-03-04 09:21:05.549  INFO 12448 --- [XNIO-1 task-14] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:21:05.966  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: e-girl-furries-ft-lil-boom
-2020-03-04 09:23:25.534  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAggIAIERyYWtlIC0gR29kJ3MgUGxhbiAoTHlyaWMgVmlkZW8pAAhSYXAgQ2l0eQAAAAAAAw1AAAtwUEt4LWZvbjFuWQABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PXBQS3gtZm9uMW5ZAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:25:01.421  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAA3wIAFVJhZ2luZyAoZnQuIEtvZGFsaW5lKQAES3lnbwAAAAAAA205AHFPOmh0dHBzOi8vYXBpLXYyLnNvdW5kY2xvdWQuY29tL21lZGlhL3NvdW5kY2xvdWQ6dHJhY2tzOjI1NjY0NTY5NS82YzFkN2NlNS0wYTM1LTQ3YjctYTQxOS1mZmQxMjk4M2M1NWEvc3RyZWFtL2hscwABAC5odHRwczovL3NvdW5kY2xvdWQuY29tL2t5Z28vcmFnaW5nLWZ0LWtvZGFsaW5lAApzb3VuZGNsb3VkAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:25:15.645  INFO 12448 --- [XNIO-1 task-16] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:25:16.107  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: hard-place-cover-h-e-r
-2020-03-04 09:26:44.956  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAhgIAJExpbCBNb3NleSAtIEJsdWViZXJyeSBGYXlnbyAoTHlyaWNzKQAIUmFwIENpdHkAAAAAAAJ8uAALT3JZLXpKZm1VN0EAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1PclktekpmbVU3QQAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:28:45.968  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAABIQIAQ01hY2tsZW1vcmUgJiBSeWFuIExld2lzIGZlYXQuIFNjSG9vbGJveSBRIGFuZCBIb2xsaXMgLSBXaGl0ZSBXYWxscy4ACkJhbGxlckxpZmUAAAAAAAWq2QBxTzpodHRwczovL2FwaS12Mi5zb3VuZGNsb3VkLmNvbS9tZWRpYS9zb3VuZGNsb3VkOnRyYWNrczoxMDk4Njk5NjEvNGYwZTUxNjEtMDAzYy00ODQzLWFmMzktOGNhZmM5Y2QxNzhhL3N0cmVhbS9obHMAAQA8aHR0cHM6Ly9zb3VuZGNsb3VkLmNvbS9iYWxsZXJsaWZlL21hY2tsZW1vcmUtcnlhbi1sZXdpcy1mZWF0AApzb3VuZGNsb3VkAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:29:12.360  INFO 12448 --- [XNIO-1 task-18] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
-2020-03-04 09:29:12.970  INFO 12448 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: buttercup
-2020-03-04 09:29:27.625  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfwIAHVlOVyBNZWxseSAtIFN1aWNpZGFsIChMeXJpY3MpAAhSYXAgQ2l0eQAAAAAAA2sAAAsxd2luVHIwcDBZYwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PTF3aW5UcjBwMFljAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:29:32.303  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAA4gIACUF0dGVudGlvbgAMQ2hhcmxpZSBQdXRoAAAAAAAAdTAAek06aHR0cHM6Ly9hcGktdjIuc291bmRjbG91ZC5jb20vbWVkaWEvc291bmRjbG91ZDp0cmFja3M6MzE4NzI3MjgxL2VmZTRiNjRlLTUzY2UtNDNkZS1iMGRiLTA3N2EzZjA3YTI3YS9wcmV2aWV3L3Byb2dyZXNzaXZlAAEALGh0dHBzOi8vc291bmRjbG91ZC5jb20vY2hhcmxpZXB1dGgvYXR0ZW50aW9uAApzb3VuZGNsb3VkAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:29:48.586  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAA5wIADkdpdmVNZVlvdXJMb3ZlAAtNaW5uZXNvdGFKbwAAAAAAAYMSAHlNOmh0dHBzOi8vYXBpLXYyLnNvdW5kY2xvdWQuY29tL21lZGlhL3NvdW5kY2xvdWQ6dHJhY2tzOjE3NTIxMTU2Ny9mYTcxNmQ0My0zNWZiLTRjMmMtOTFkOS0xMWFjMjI2YmU5YTYvc3RyZWFtL3Byb2dyZXNzaXZlAAEALmh0dHBzOi8vc291bmRjbG91ZC5jb20vam9iZWFyLTEvZ2l2ZW1leW91cmxvdmUACnNvdW5kY2xvdWQAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:31:29.122  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAqQIARFRoZSBNYWNhcm9ucyBQcm9qZWN0LSBGbHkgTWUgVG8gVGhlIE1vb24gKGx5cmljcykgI0NISUxMVklCRVMgI0NPVkVSAAtNdXNpYyBWaWJlcwAAAAAAAmFgAAtoZDBYcmFZUVJSMAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWhkMFhyYVlRUlIwAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:33:10.711  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAqgIASEcgSGVyYm8gLSBQVFNEIChMeXJpY3MpIGZ0LiBKdWljZSBXUkxELCBDaGFuY2UgVGhlIFJhcHBlciAmIExpbCBVemkgVmVydAAIUmFwIENpdHkAAAAAAAOOKAALWWZYLXM1VlA3QWcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1ZZlgtczVWUDdBZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:34:04.882  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAA/AIAHkUtR0lSTCBGVVJSSUVTISAoZnQuIExpbCBCb29tKQAHcmVwdGlsZQAAAAAAAdp9AHFPOmh0dHBzOi8vYXBpLXYyLnNvdW5kY2xvdWQuY29tL21lZGlhL3NvdW5kY2xvdWQ6dHJhY2tzOjc2ODI2MTE4MS81ODY1ZTUzYy00MjFkLTQyOTQtOTQ5Zi0yNTE1MjE3MGU3MjUvc3RyZWFtL2hscwABAD9odHRwczovL3NvdW5kY2xvdWQuY29tL3JlcHRpbGUtbGVnaXQvZS1naXJsLWZ1cnJpZXMtZnQtbGlsLWJvb20ACnNvdW5kY2xvdWQAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:35:02.719  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAABBAIAF0hhcmQgUGxhY2UgQ292ZXIgSC5FLlIuABBLYXRobGVlbiBCZW5uZXR0AAAAAAAEI30AcU86aHR0cHM6Ly9hcGktdjIuc291bmRjbG91ZC5jb20vbWVkaWEvc291bmRjbG91ZDp0cmFja3M6NzU2MjQzNTk4LzVkOGI2Y2NmLWJjMzQtNGI0ZS1hMzdhLTFlYWMxYWIxNGVlMC9zdHJlYW0vaGxzAAEARWh0dHBzOi8vc291bmRjbG91ZC5jb20va2F0aGxlZW4tYmVubmV0dC0xMTcwMDUzOS9oYXJkLXBsYWNlLWNvdmVyLWhlcgAKc291bmRjbG91ZAAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:37:02.882  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAggIAIExpbCBVemkgVmVydCAtIFRoYXQgV2F5IChMeXJpY3MpAAhSYXAgQ2l0eQAAAAAAA0AIAAtMU3IyS1dxangzdwABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PUxTcjJLV3FqeDN3AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:39:34.911  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAfQIAHU1WIHwgSmFjayBTdGF1YmVyIC0gQnV0dGVyY3VwAAZsaXN1Z2EAAAAAAAMwaAALZVlESThiNU5uNXMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1lWURJOGI1Tm41cwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"576298549524955166","op":"play"}
-2020-03-04 09:40:35.432  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAeAIAFk5MRSBDaG9wcGEgLSAxMDAgU2hvdHMACFJhcCBDaXR5AAAAAAACbRgAC2hTaEh4ZkxjOGQ4AAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9aFNoSHhmTGM4ZDgAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:43:03.895  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"guildId":"576298549524955166","op":"destroy"}
-2020-03-04 09:43:13.492  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAggIAIFJ5YW4gT2FrZXMgLSBCQUNLIE9OIE1ZIEJVTExTSCpUAAhSYXAgQ2l0eQAAAAAAAmFgAAtONC1GV29GUGpHNAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PU40LUZXb0ZQakc0AAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
-2020-03-04 09:45:49.377  INFO 12448 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : {"track":"QAAAeAIAFkJyZXZpcyAmIERyYW1hIEIgLSBCVEIACFJhcCBDaXR5AAAAAAACytgAC19JeUgyeWVZczNnAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9X0l5SDJ5ZVlzM2cAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"681627466128818272","op":"play"}
+2020-03-07 14:18:41.439  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"dc94c99a072d038a","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 14:18:53.684  INFO 5916 --- [XNIO-1 task-19] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:18:53.976  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: technicolour mummra
+2020-03-07 14:19:11.442  INFO 5916 --- [XNIO-1 task-21] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:19:12.256  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: dance with you than talk with you
+2020-03-07 14:19:12.258  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAnAIAMEtpbmdzIE9mIENvbnZlbmllbmNlIC0gSSdkIFJhdGhlciBEYW5jZSBXaXRoIFlvdQASS2luZ3NvZkNvbk9mZmljaWFsAAAAAAADjigAC09jelJwdUdLVGZZAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9T2N6UnB1R0tUZlkAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 14:23:05.977  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 14:30:36.134  INFO 5916 --- [XNIO-1 task-23] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:30:36.848  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: no me ames
+2020-03-07 14:30:37.316  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAgwIAG0plbm5pZmVyIExvcGV6IC0gTm8gTWUgQW1lcwAOSmVubmlmZXIgTG9wZXoAAAAAAARo6AALLXJiZTZZVF90MGMAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj0tcmJlNllUX3QwYwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 14:30:37.620  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"84abd2fa49da8370","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 14:35:27.205  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 14:35:52.552  INFO 5916 --- [XNIO-1 task-25] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:35:53.185  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: why am i cryin acoustic molly
+2020-03-07 14:35:53.390  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlgIANE1vbGx5IFNhbmTDqW4gLSBXaHkgQW0gSSBDcnlpbmcgQWNvdXN0aWMgKEZ1bGwgU29uZykACGNlbGliYWV4AAAAAAAD4DAAC05WbE91MjFZZ0ZVAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TlZsT3UyMVlnRlUAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 14:35:53.696  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"7a2caadb59375bb82414650afd9a776b","event":{"token":"c229fa896118cdbd","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 14:39:37.713  INFO 5916 --- [XNIO-1 task-27] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:39:38.214  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : No matches found
+2020-03-07 14:39:54.764  INFO 5916 --- [XNIO-1 task-29] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:39:55.480  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: dance like no ones watching molly
+2020-03-07 14:40:10.071  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAjQIAJk1vbGx5IFNhbmTDqW4gLSBMaWtlIE5vIE9uZSdzIFdhdGNoaW5nAA1Nb2xseSBTYW5kw6luAAAAAAADBXAAC3lzaVBXM0pkdnhJAAEAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9eXNpUFczSmR2eEkAB3lvdXR1YmUAAAAAAAAAAA==","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 14:41:17.955  INFO 5916 --- [XNIO-1 task-31] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 14:41:18.503  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: gereja tua pacified
+2020-03-07 14:43:27.750  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlQIAKlBBTkJFUlMgLSBHRVJFSkEgVFVBIENPVkVSIGJ5ICggUEFDSUZJRUQgKQARUEFDSUZJRUQgT0ZGSUNJQUwAAAAAAAS+2AALd1pnOXFHNXo2WGcAAQAraHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj13Wmc5cUc1ejZYZwAHeW91dHViZQAAAAAAAAAA","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 14:48:38.838  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"guildId":"673512696288903199","op":"destroy"}
+2020-03-07 15:01:06.198  INFO 5916 --- [XNIO-1 task-1] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55504
+2020-03-07 15:01:07.767  INFO 5916 --- [XNIO-1 task-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:01:08.342  INFO 5916 --- [XNIO-1 task-1] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55504
+2020-03-07 15:02:43.734  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55504 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:02:43.796  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:02:43.797  INFO 5916 --- [XNIO-1 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:03:08.157  INFO 5916 --- [XNIO-1 task-2] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55521
+2020-03-07 15:03:08.209  INFO 5916 --- [XNIO-1 task-2] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:03:08.265  INFO 5916 --- [XNIO-1 task-2] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55521
+2020-03-07 15:03:22.607  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55521 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:03:22.608  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:03:22.608  INFO 5916 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:03:40.705  INFO 5916 --- [XNIO-1 task-3] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55532
+2020-03-07 15:03:40.788  INFO 5916 --- [XNIO-1 task-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:03:40.835  INFO 5916 --- [XNIO-1 task-3] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55532
+2020-03-07 15:04:30.564  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55532 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:04:30.565  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:04:30.792  INFO 5916 --- [XNIO-1 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:07:18.524  INFO 5916 --- [XNIO-1 task-4] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55551
+2020-03-07 15:07:18.559  INFO 5916 --- [XNIO-1 task-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:07:18.649  INFO 5916 --- [XNIO-1 task-4] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55551
+2020-03-07 15:07:48.783  INFO 5916 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55551 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:07:48.799  INFO 5916 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:07:48.799  INFO 5916 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:08:00.322  INFO 5916 --- [XNIO-1 task-5] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55560
+2020-03-07 15:08:00.429  INFO 5916 --- [XNIO-1 task-5] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:08:00.468  INFO 5916 --- [XNIO-1 task-5] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55560
+2020-03-07 15:08:17.873  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 15:08:25.527  WARN 5916 --- [lava-daemon-pool-manager-7-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 0] [Bucket 50 = 0] [Bucket 200 = 1] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 15:08:38.217  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55560 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:08:38.218  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:08:38.218  INFO 5916 --- [XNIO-1 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:09:35.339  INFO 5916 --- [XNIO-1 task-6] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55571
+2020-03-07 15:09:35.346  INFO 5916 --- [XNIO-1 task-6] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:09:35.424  INFO 5916 --- [XNIO-1 task-6] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55571
+2020-03-07 15:10:23.275  INFO 5916 --- [XNIO-1 I/O-3] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55571 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:10:23.275  INFO 5916 --- [XNIO-1 I/O-3] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:10:23.278  INFO 5916 --- [XNIO-1 I/O-3] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:11:19.570  INFO 5916 --- [XNIO-1 task-7] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55584
+2020-03-07 15:11:19.595  INFO 5916 --- [XNIO-1 task-7] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:11:19.637  INFO 5916 --- [XNIO-1 task-7] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55584
+2020-03-07 15:12:06.197  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:55584 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:12:06.197  INFO 5916 --- [XNIO-1 I/O-4] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:12:06.227  INFO 5916 --- [XNIO-1 I/O-4] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:21:25.815  WARN 5916 --- [pool-3-thread-1] o.s.os.windows.WindowsOperatingSystem    : Failed to set path or get user/group on PID 5916. It may have terminated. The parameter is incorrect.
+2020-03-07 15:21:30.064  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : Connection closed from /127.0.0.1:57653 -- CloseStatus[code=1006, reason=]
+2020-03-07 15:21:30.065  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketContext         : Shutting down 0 playing players.
+2020-03-07 15:21:30.066  INFO 5916 --- [XNIO-1 I/O-1] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring disabled.
+2020-03-07 15:26:29.318  INFO 5916 --- [XNIO-1 task-8] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55785
+2020-03-07 15:26:29.403  INFO 5916 --- [XNIO-1 task-8] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:26:29.469  INFO 5916 --- [XNIO-1 task-8] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55785
+2020-03-07 15:26:48.746  INFO 5916 --- [XNIO-1 task-9] l.server.player.AudioLoaderRestHandler   : GET /loadtracks
+2020-03-07 15:26:51.979  INFO 5916 --- [lava-daemon-pool-info-loader-2-thread-1] lavalink.server.player.AudioLoader       : Loaded playlist Search results for: when i need you celine
+2020-03-07 15:26:52.404  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"track":"QAAAlwIANUNlbGluZSBEaW9uIC0gV2hlbiBJIE5lZWQgWW91IChseXJpY3MpIDkwJ3MgVGhyb3diYWNrAAhteWtpZTI1MwAAAAAAA9hgAAtjTGZMT2hXWVVCMAABACtodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PWNMZkxPaFdZVUIwAAd5b3V0dWJlAAAAAAAAAAA=","startTime":0,"endTime":0,"noReplace":false,"guildId":"673512696288903199","op":"play"}
+2020-03-07 15:26:53.230  INFO 5916 --- [XNIO-1 I/O-1] lavalink.server.io.SocketServer          : {"sessionId":"88c2cb139dd9545d55860a54dff60f21","event":{"token":"75804e5f7007087d","guildid":"673512696288903199","endpoint":"singapore457.discord.media:80"},"guildId":"673512696288903199","op":"voiceUpdate"}
+2020-03-07 15:28:17.917  WARN 5916 --- [lava-daemon-pool-manager-3-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 1] [Bucket 50 = 1] [Bucket 200 = 2] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 15:28:29.409  WARN 5916 --- [lava-daemon-pool-manager-43-thread-1] c.s.d.l.tools.GarbageCollectionMonitor   : Suspicious GC results for the last 2 minutes: [Bucket 0 = 0] [Bucket 20 = 1] [Bucket 50 = 1] [Bucket 200 = 2] [Bucket 500 = 0] [Bucket 2000 = 0] 
+2020-03-07 15:30:00.732  INFO 5916 --- [XNIO-1 task-11] l.server.io.HandshakeInterceptorImpl     : Incoming connection from /127.0.0.1:55824
+2020-03-07 15:30:00.748  INFO 5916 --- [XNIO-1 task-11] c.s.d.l.tools.GarbageCollectionMonitor   : GC monitoring enabled, reporting results every 2 minutes.
+2020-03-07 15:30:00.782  INFO 5916 --- [XNIO-1 task-11] lavalink.server.io.SocketServer          : Connection successfully established from /127.0.0.1:55824
