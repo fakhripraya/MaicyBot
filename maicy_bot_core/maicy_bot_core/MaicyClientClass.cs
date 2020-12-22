@@ -39,10 +39,7 @@ namespace maicy_bot_core
         public async Task InitializeAsync()
         {
             //Login
-            await maicy_client.LoginAsync(TokenType.Bot, "NjczNDcyMTU2MDMzNjEzODU2.Xja3Qg.9PwtgPvClJozYpJdAQMTN9PJnxk"); //maicy
-            //await maicy_client.LoginAsync(TokenType.Bot, "NjczNzU3MDU1NDIwNTk2MjY1.XjerXw.Tz9NWPWo9bY5UjqRaXgOi-942Jo"); //euy
-            //await maicy_client.LoginAsync(TokenType.Bot, "Njc0NjUyMTE4NDcyNDU4MjQw.XjrsxQ.0ByxKE0yvJd17oWz_CBe373wTz8"); //eh
-            //await maicy_client.LoginAsync(TokenType.Bot, "Njc3NTQyNDIwNjY5NTMwMTEy.XkVxLg.tat8vRmwYxh4oSaNnQBPgdy7Uso"); //cave cafe
+            await maicy_client.LoginAsync(TokenType.Bot, "<secret>); //maicy
 
             //Startin the bot
             await maicy_client.StartAsync();
