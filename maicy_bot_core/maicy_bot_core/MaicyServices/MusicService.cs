@@ -265,7 +265,7 @@ namespace maicy_bot_core.MaicyServices
         //get spotify access token
         public async Task get_access()
         {
-            CredentialsAuth auth = new CredentialsAuth("56894be43189492a881161efd8963cb0", "06a0a3c3331247c4bf4f2a5f979a3d11");
+            CredentialsAuth auth = new CredentialsAuth("<secret>", "<secret>");
             Token token = await auth.GetToken();
             _spotify = new SpotifyWebAPI()
             {
